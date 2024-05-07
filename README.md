@@ -4,7 +4,7 @@
 This repository contains a deep learning project utilizing the MixBread MXBAI model and Groq LLM via LangChain. The project integrates various APIs including Groq, OpenAI, TelegramBot, and Google Cloud to provide a comprehensive application. The goal of this project is to [Briefly describe the main goal or application of your project].
 
 ## Demo 
-Link to video [https://drive.google.com/drive/u/0/folders/1HndOjiFFcoponlNxxLtLfHbGglxRZ4Hm]
+[Link to video](https://drive.google.com/drive/u/0/folders/1HndOjiFFcoponlNxxLtLfHbGglxRZ4Hm)
 
 ## Features
 - Utilization of the state-of-the-art SLM model (MixBread MXBAI).
@@ -30,10 +30,12 @@ To install the necessary libraries, run the following command:
 `cd GroceryBot`
 
 2. Create a `.env` file in the root directory and populate it with your API keys:
-GROQ_API_KEY='your_groq_api_key'
-OPENAI_API_KEY='your_openai_api_key'
-TELEGRAM_BOT_API_KEY='your_telegram_bot_api_key'
-GOOGLE_CLOUD_CREDENTIALS='path_to_your_google_cloud_credentials.json'
+- GROQ_API_KEY='your_groq_api_key'
+- OPENAI_API_KEY='your_openai_api_key'  
+
+(You may use one of the two, no acctual need for both, but code should be edited accordingly.)
+- TELEGRAM_BOT_API_KEY='your_telegram_bot_api_key'  -> MUST create with Telegram's BotFather
+- GOOGLE_CLOUD_CREDENTIALS='path_to_your_google_cloud_credentials.json' -> for Text-to-Speech and Speech-to-Text fitures
 
 ## Usage
 To run the project, execute:
