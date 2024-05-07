@@ -3,6 +3,9 @@
 ## Description
 This repository contains a deep learning project utilizing the MixBread MXBAI model and Groq LLM via LangChain. The project integrates various APIs including Groq, OpenAI, TelegramBot, and Google Cloud to provide a comprehensive application. The goal of this project is to [Briefly describe the main goal or application of your project].
 
+## Demo 
+Link to video [https://drive.google.com/drive/u/0/folders/1HndOjiFFcoponlNxxLtLfHbGglxRZ4Hm]
+
 ## Features
 - Utilization of the state-of-the-art SLM model (MixBread MXBAI).
 - Integration with Groq's LLM through LangChain.
