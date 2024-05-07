@@ -1,0 +1,2576 @@
+sentence,label
+" I think we can remove the brick of cream cheese from the list, we have enough at home.",remove
+ Do we really need three bags of rice? Can we cross one off the list?,remove
+" We already have enough eggs, let's remove a dozen from the list.",remove
+" Since we're not having a party, we can scratch the case of soda off the list.",remove
+" We don't need two loaves of bread, let's cross off one.",remove
+" I don't think we need that much juice, can we reduce the quantity on the list?",remove
+" We already have plenty of canned vegetables, let's remove some from the list.",remove
+ We don't need to buy more pasta.,remove
+" Since we have enough snacks, can we remove some from the list?",remove
+" We have enough toilet paper, let's remove it from the list.",remove
+" We don't need to buy more shampoo, let's remove it from the list.",remove
+" Since we have enough cleaning supplies, can we remove some from the list?",remove
+" We don't need to buy more detergent, let's remove it from the list.",remove
+" Since we have enough frozen meals, can we remove some from the list?",remove
+" We have enough pet food, let's remove it from the list.",remove
+" We don't need to buy more coffee, let's remove it from the list.",remove
+" Since we have enough tea, can we remove some from the list?",remove
+" We don't need to buy more sugar, let's remove it from the list.",remove
+" Since we have enough flour, can we remove some from the list?",remove
+" We have enough baking supplies, let's remove them from the list.",remove
+" We don't need to buy more spices, let's remove them from the list.",remove
+" Since we have enough canned fish, can we remove some from the list?",remove
+" We have enough fresh vegetables, let's remove some from the list.",remove
+" We don't need to buy more fresh fruit, let's remove it from the list.",remove
+" Since we have enough yogurt, can we remove some from the list?",remove
+" We have enough breakfast cereal, let's remove it from the list.",remove
+" We don't need to buy more water, let's remove it from the list.",remove
+" Since we have enough ice cream, can we remove some from the list?",remove
+" We have enough candy, let's remove it from the list.",remove
+" We don't need to buy more chocolate, let's remove it from the list.",remove
+" I think we have enough bread, can we take it off the list?",remove
+" We don't need to buy more milk, let's remove it from the list.",remove
+" Since we have enough cheese, can we remove some from the list?",remove
+" We have enough eggs, let's remove them from the list.",remove
+" We don't need to buy more butter, let's remove it from the list.",remove
+" Since we have enough cooking oil, can we remove it from the list?",remove
+" We have enough broth, let's remove it from the list.",remove
+" We don't need to buy more salad dressing, let's remove it from the list.",remove
+" Since we have enough condiments, can we remove some from the list?",remove
+" We have enough baking ingredients, let's remove them from the list.",remove
+" We don't need to buy more alcohol, let's remove it from the list.",remove
+" Since we have enough cigarettes, can we remove some from the list?",remove
+" We have enough newspapers, let's remove them from the list.",remove
+" We don't need to buy more batteries, let's remove it from the list.",remove
+" Since we have enough light bulbs, can we remove some from the list?",remove
+" We have enough tools, let's remove them from the list.",remove
+" We don't need to buy more cleaning supplies, let's remove it from the list.",remove
+" Since we have enough gardening supplies, can we remove some from the list?",remove
+" We have enough pet supplies, let's remove them from the list.",remove
+" We don't need to buy more toys, let's remove it from the list.",remove
+" Since we have enough electronics, can we remove some from the list?",remove
+" We have enough clothes, let's remove them from the list.",remove
+" We don't need to buy more shoes, let's remove it from the list.",remove
+" Since we have enough accessories, can we remove some from the list?",remove
+" We have enough books, let's remove them from the list.",remove
+" We don't need to buy more movies, let's remove it from the list.",remove
+" Since we have enough music, can we remove some from the list?",remove
+" We have enough games, let's remove them from the list.",remove
+" We don't need to buy more craft supplies, let's remove it from the list.",remove
+" Since we have enough school supplies, can we remove some from the list?",remove
+ Do we really need three loaves of bread? Let's take one off the list.,remove
+ We have plenty of canned vegetables. Let's remove some from the list.,remove
+ We don't need to buy more cereal.,remove
+" Since we have enough pasta, can we remove some from the list?",remove
+" We don't need to buy more snacks, let's take them off the list.",remove
+" Since we have enough soda, can we remove some from the list?",remove
+" We have enough juice, let's remove it from the list.",remove
+ We don't need to buy more water.,remove
+" Since we have enough coffee, can we remove some from the list?",remove
+" We have enough tea, let's remove it from the list.",remove
+" We don't need to buy more frozen meals, let's take them off the list.",remove
+" Since we have enough ice cream, can we remove some from the list?",remove
+" We have enough yogurt, let's remove it from the list.",remove
+ We don't need to buy more cheese.,remove
+" Since we have enough eggs, can we remove some from the list?",remove
+" We have enough milk, let's remove it from the list.",remove
+ We don't need to buy more butter.,remove
+" Since we have enough flour, can we remove some from the list?",remove
+" We have enough sugar, let's remove it from the list.",remove
+" We don't need to buy more spices, let's take them off the list.",remove
+" We have enough canned beans, let's remove some from the list.",remove
+" Since we have enough rice, can we remove some from the list?",remove
+" We don't need to buy more baking ingredients, let's take them off the list.",remove
+" We have enough vegetables, let's remove it from the list.",remove
+" Since we have enough fruits, can we remove some from the list?",remove
+ We don't need to buy more meat.,remove
+" Since we have enough fish, can we remove some from the list?",remove
+" We have enough pasta sauce, let's remove it from the list.",remove
+" We don't need to buy more condiments, let's take them off the list.",remove
+" Since we have enough baking supplies, can we remove some from the list?",remove
+" We have enough cleaning supplies, let's remove it from the list.",remove
+" We don't need to buy more paper products, let's take them off the list.",remove
+" Since we have enough pet food, can we remove some from the list?",remove
+" We have enough personal care items, let's remove it from the list.",remove
+ We don't need to buy more medication.,remove
+" Since we have enough vitamins, can we remove some from the list?",remove
+" We have plenty of bread, can we take it off the list?",remove
+" We don't need to buy more juice, let's remove it from the list.",remove
+" Since we have enough cereal, can we remove some from the list?",remove
+" We have enough chips, let's remove it from the list.",remove
+ We don't need to buy more dip.,remove
+" Since we have enough crackers, can we remove some from the list?",remove
+" We have enough canned soup, let's remove it from the list.",remove
+" We don't need to buy more frozen meals, let's take them off the list.",remove
+" Since we have enough snacks, can we remove some from the list?",remove
+" We have enough pasta, let's remove it from the list.",remove
+" We don't need to buy more sauces, let's take them off the list.",remove
+" Since we have enough canned goods, can we remove some from the list?",remove
+" We have enough baking goods, let's remove it from the list.",remove
+" We don't need to buy more cereal bars, let's take them off the list.",remove
+" Since we have enough granola, can we remove some from the list?",remove
+" We have enough nuts, let's remove it from the list.",remove
+" We don't need to buy more dried fruits, let's take them off the list.",remove
+" Since we have enough coffee, can we remove some from the list?",remove
+" We have enough tea, let's remove it from the list.",remove
+ We don't need to buy more bottled water.,remove
+" Since we have enough soda, can we remove some from the list?",remove
+" We have enough energy drinks, let's remove it from the list.",remove
+ We don't need to buy more alcohol.,remove
+" Since we have enough mixers, can we remove some from the list?",remove
+" We have enough candy, let's remove it from the list.",remove
+ We don't need to buy more gum.,remove
+" Since we have enough mints, can we remove some from the list?",remove
+" We have enough frozen desserts, let's remove it from the list.",remove
+ We don't need to buy more deli meat.,remove
+" Since we have enough bakery items, can we remove some from the list?",remove
+" We have plenty of bread, shall we take it off the list?",remove
+" Since we already have enough vegetables, can we remove some from the list?",remove
+" We have enough fruit, let's remove it from the list.",remove
+" We don't need to buy more dairy products, let's take them off the list.",remove
+" Since we have enough meat, can we remove some from the list?",remove
+" We have enough seafood, let's remove it from the list.",remove
+" We don't need to buy more baking ingredients, let's take them off the list.",remove
+" Since we have enough condiments, can we remove some from the list?",remove
+" We have enough baking supplies, let's remove it from the list.",remove
+" We don't need to buy more snack foods, let's take them off the list.",remove
+" Since we have enough beverages, can we remove some from the list?",remove
+" We have enough breakfast items, let's remove it from the list.",remove
+" We don't need to buy more canned vegetables, let's take them off the list.",remove
+" Since we have enough canned fruits, can we remove some from the list?",remove
+" We have enough pasta sauce, let's remove it from the list.",remove
+ We don't need to buy more rice.,remove
+" Since we have enough soups, can we remove some from the list?",remove
+" We have enough bakery goods, let's remove it from the list.",remove
+" We don't need to buy more baking mixes, let's take them off the list.",remove
+" Since we have enough grains, can we remove some from the list?",remove
+" We have sufficient water bottles, so let's take them off the list.",remove
+" Since we already have enough coffee, can we remove some from the list?",remove
+" We don't need to buy more crackers, let's take them off the list.",remove
+" Since we have enough tea, can we remove some from the list?",remove
+" We have enough juice, let's remove it from the list.",remove
+ We don't need to buy more pasta.,remove
+" Since we have enough cereal, can we remove some from the list?",remove
+" We have enough salsa, let's remove it from the list.",remove
+" We don't need to buy more tortillas, let's take them off the list.",remove
+" Since we have enough chips, can we remove some from the list?",remove
+" We have enough soda, let's remove it from the list.",remove
+" We don't need to buy more energy drinks, let's take them off the list.",remove
+" Since we have enough sports drinks, can we remove some from the list?",remove
+" We have enough bottled water, let's remove it from the list.",remove
+" We don't need to buy more canned soups, let's take them off the list.",remove
+" Since we have enough canned beans, can we remove some from the list?",remove
+" We have enough canned tomatoes, let's remove it from the list.",remove
+ We don't need to buy more canned tuna.,remove
+" Since we have enough canned chicken, can we remove some from the list?",remove
+" We have enough canned chili, let's remove it from the list.",remove
+" We have plenty of bread, no need to buy more.",remove
+" Since we already have enough butter, can we remove some from the list?",remove
+ We don't need to buy more milk.,remove
+" Since we have enough eggs, can we remove some from the list?",remove
+" We have enough cheese, let's remove it from the list.",remove
+ We don't need to buy more yogurt.,remove
+" Since we have enough deli meat, can we remove some from the list?",remove
+" We have enough frozen vegetables, let's remove it from the list.",remove
+ We don't need to buy more ice cream.,remove
+" Since we have enough frozen fruit, can we remove some from the list?",remove
+" We have enough chicken, let's remove it from the list.",remove
+ We don't need to buy more beef.,remove
+" Since we have enough pork, can we remove some from the list?",remove
+" We have enough fish, let's remove it from the list.",remove
+ We don't need to buy more tofu.,remove
+" Since we have enough vegetarian options, can we remove some from the list?",remove
+" We have enough pasta sauce, let's remove it from the list.",remove
+ We don't need to buy more salad dressing.,remove
+" Since we have enough snack bars, can we remove some from the list?",remove
+" We have enough nuts, let's remove it from the list.",remove
+ We don't need to buy more chocolate.,remove
+" Since we have enough candy, can we remove some from the list?",remove
+" We have enough cookies, let's remove it from the list.",remove
+" We don't need to buy more baking supplies, let's take them off the list.",remove
+" Since we have enough canned vegetables, can we remove some from the list?",remove
+" We have enough canned fruit, let's remove it from the list.",remove
+ We don't need to buy more pet food.,remove
+" Since we have enough household supplies, can we remove some from the list?",remove
+" We have enough paper products, let's remove it from the list.",remove
+" We don't need to buy more cleaning supplies, let's take them off the list.",remove
+" We have enough bread, let's remove it from the list.",remove
+" Since we have enough breakfast cereals, can we remove some from the list?",remove
+" We have enough milk, let's remove it from the list.",remove
+ We don't need to buy more cheese.,remove
+" Since we have enough juice, can we remove it from the list?",remove
+" We have enough eggs, let's remove it from the list.",remove
+ We don't need to buy more butter.,remove
+" Since we have enough coffee, can we remove it from the list?",remove
+" We have enough tea, let's remove it from the list.",remove
+ We don't need to buy more syrup.,remove
+" Since we have enough condiments, can we remove some from the list?",remove
+" We have enough grains, let's remove it from the list.",remove
+ We don't need to buy more pasta.,remove
+" Since we have enough baking ingredients, can we remove some from the list?",remove
+" We have enough oil, let's remove it from the list.",remove
+ We don't need to buy more vinegar.,remove
+" Since we have enough salad ingredients, can we remove some from the list?",remove
+" We have enough dressings and sauces, let's remove it from the list.",remove
+ We don't need to buy more broth and stock.,remove
+" Since we have enough baking mixes, can we remove some from the list?",remove
+" We have enough seasonings and spices, let's remove it from the list.",remove
+ We don't need to buy more snacks.,remove
+" Since we have enough candies and chocolates, can we remove some from the list?",remove
+" We have enough beverages, let's remove it from the list.",remove
+ We don't need to buy more frozen meals.,remove
+" Since we have enough dips, spreads and sides, can we remove some from the list?",remove
+" We have enough frozen goods, let's remove it from the list.",remove
+ We don't need to buy more baking supplies.,remove
+" Since we have enough pet food, can we remove some from the list?",remove
+" We have enough household items, let's remove it from the list.",remove
+" Let's take canned beans off the list, we have enough at home.",remove
+" Since we already have plenty of canned vegetables, let's remove it.",remove
+ We don't need to buy more canned soups.,remove
+" We have enough bread and bakery items, so we can strike it off.",remove
+" Let's take milk off the list, we don't need to buy more.",remove
+" Since we already have enough cheese, let's remove it.",remove
+ We don't need to buy more yogurt.,remove
+" We have enough breakfast items, let's remove it from the list.",remove
+" Let's take cereals off the list, we have enough at home.",remove
+" Since we have enough juice, we can remove it from the list.",remove
+" We have enough snack bars, so let's strike it off the list.",remove
+" We have enough fresh produce, so we can take it off the list.",remove
+" Let's take meat off the list, we have enough in the freezer.",remove
+" Since we have enough seafood, we can remove it from the list.",remove
+ We don't need to buy more poultry.,remove
+" We have enough deli items, so we can strike it off the list.",remove
+" Let's take baking ingredients off the list, we have enough at home.",remove
+" We have enough condiments and sauces, so we can take it off the list.",remove
+ We don't need to buy more pasta sauce.,remove
+" Since we have enough rice and grains, we can remove it from the list.",remove
+" Let's take coffee and tea off the list, we have enough at home.",remove
+" We have enough baking supplies, so we can strike it off the list.",remove
+ We don't need to buy more confectionery.,remove
+" Since we have enough pet food, we can remove it from the list.",remove
+" We have enough household items, so let's strike it off the list.",remove
+" Let's remove canned tuna from the list, we have enough in the pantry.",remove
+" Cereals have been checked off, as we already have enough.",remove
+" Since we have enough crackers and chips, we can take it off the list.",remove
+" We have enough frozen meals, so there's no need to buy more.",remove
+" Let's take breadcrumbs off the list, we don't need it for the recipe.",remove
+" We have enough dried fruits and nuts, so we can strike it off.",remove
+ We don't need to buy more canned fruit.,remove
+" Since we already have enough desserts, let's remove it.",remove
+" Let's take soft drinks off the list, we don't need any more.",remove
+" We have enough canned tomatoes, so we can take it off the list.",remove
+" We have enough pasta, so let's strike it off the list.",remove
+" We have enough spices and seasonings, so there's no need to buy more.",remove
+" Let's take oils and vinegars off the list, we have enough at home.",remove
+" We have enough juice in the fridge, so we can remove it from the list.",remove
+ We don't need to buy more canned pineapple.,remove
+" Since we have enough canned mushrooms, we can remove it from the list.",remove
+" Let's take tofu off the list, we don't need to buy more.",remove
+" We have enough tempeh, so we can strike it off the list.",remove
+ We don't need to buy more nut butters.,remove
+" Since we have enough snacks, we can remove it from the list.",remove
+" Let's take beverages off the list, we have enough at home.",remove
+" We have enough canned cocktails, so we can strike it off the list.",remove
+ We don't need to buy more salsa.,remove
+" Since we have enough tortillas, we can remove it from the list.",remove
+" Let's take cocoa and cocoa powder off the list, we have enough at home.",remove
+" We have enough syrups and honey, so we can take it off the list.",remove
+ We don't need to buy more canned milk.,remove
+" Since we have enough pudding and custard, we can remove it from the list.",remove
+" We have enough breakfast cereals, so there's no need to buy more.",remove
+" Let's take flour off the list, we already have enough at home.",remove
+" We have enough baking powder and baking soda, so we can strike it off.",remove
+ We don't need to buy more grains.,remove
+" Since we have enough crackers and chips, we can remove it from the list.",remove
+" Let's take canned soup off the list, we don't need it for this week.",remove
+" We have enough canned vegetables, so there's no need to buy more.",remove
+ We don't need to buy more canned beans.,remove
+" Since we have enough rice and grains, we can remove it from the list.",remove
+" Let's take pasta sauce off the list, we have enough at home.",remove
+" We have enough yogurt and kefir, so we can take it off the list.",remove
+ We don't need to buy more cheese.,remove
+" Since we have enough eggs, we can remove it from the list.",remove
+" Let's take meat and poultry off the list, we have enough for the week.",remove
+" We have enough seafood, so there's no need to buy more.",remove
+ We don't need to buy more deli meat.,remove
+" Since we have enough baking ingredients, we can remove it from the list.",remove
+" Let's take condiments and sauces off the list, we have enough at home.",remove
+" We have enough canned tuna, so we can strike it off the list.",remove
+ We don't need to buy more frozen fruit.,remove
+" Since we have enough dessert toppings, we can remove it from the list.",remove
+" Let's take baby food off the list, it's not needed anymore.",remove
+" We have enough pet food, so there's no need to buy more.",remove
+ We don't need to buy more cleaning supplies.,remove
+" Since we have enough paper products, we can remove it from the list.",remove
+" Let's take personal care items off the list, we have enough for now.",remove
+" We have enough medication and first aid, so there's no need to buy more.",remove
+ We don't need to buy more household supplies.,remove
+" Since we have enough home and garden supplies, we can remove it from the list.",remove
+" Let's take electronics and accessories off the list, we don't need any more.",remove
+" We already have plenty of bread at home, so take it off the list.",remove
+" We have enough canned fruits, so there's no need to buy more.",remove
+" Let's take breakfast cereals off the list, we don't need it for this week.",remove
+" We have enough milk and cream, so there's no need to buy more.",remove
+ We don't need to buy more ice cream.,remove
+" Since we have enough snacks, we can remove it from the list.",remove
+" Let's take juice and drinks off the list, we have enough at home.",remove
+" We have enough tea and coffee, so there's no need to buy more.",remove
+ We don't need to buy more nuts and seeds.,remove
+" Since we have enough pasta, we can remove it from the list.",remove
+" Let's take broth and stock off the list, we have enough at home.",remove
+" We have enough oils and vinegars, so we can take it off the list.",remove
+ We don't need to buy more spices and herbs.,remove
+" Since we have enough sugar and sweeteners, we can remove it from the list.",remove
+" Let's take canned tomatoes off the list, we have enough for now.",remove
+" We have enough bakery items, so there's no need to buy more.",remove
+ We don't need to buy more frozen vegetables.,remove
+" Since we have enough baking mixes, we can remove it from the list.",remove
+" Let's take chocolate and candies off the list, we don't need it.",remove
+" We have enough cereal bars, so there's no need to buy more.",remove
+ We don't need to buy more baby formula.,remove
+" Since we have enough pet treats, we can remove it from the list.",remove
+" Let's take office and school supplies off the list, we don't need any.",remove
+" We have enough gift and wrap, so there's no need to buy more.",remove
+ We don't need to buy more entertainment items.,remove
+" Since we have enough sports and fitness, we can remove it from the list.",remove
+" Let's take outdoor and camping off the list, we have what we need.",remove
+" We have enough automotive and car, so there's no need to buy more.",remove
+ We don't need to buy more home appliances.,remove
+" Since we have enough furniture, we can remove it from the list.",remove
+" We already have plenty of bread, so there's no need to buy more.",remove
+" Let's take milk and dairy off the list, we have enough for now.",remove
+" We have enough meats and seafood, so we can remove it from the list.",remove
+ We don't need to buy more fresh produce.,remove
+" Since we have enough snack bars and fruit, we can remove it from the list.",remove
+" Let's take condiments and sauces off the list, we have plenty at home.",remove
+" We have enough rice and grains, so there's no need to buy more.",remove
+ We don't need to buy more eggs and cheese.,remove
+" Since we have enough yogurt and pudding, we can remove it from the list.",remove
+" Let's take canned soups off the list, we have enough for a while.",remove
+" We have enough breakfast items, so there's no need to buy more.",remove
+ We don't need to buy more international foods.,remove
+" Since we have enough poultry and game, we can remove it from the list.",remove
+" Let's take seafood and shellfish off the list, we have enough.",remove
+" We have enough meal starters, so we can take it off the list.",remove
+ We don't need to buy more desserts.,remove
+" Since we have enough drinks and powdered mixes, we can remove it from the list.",remove
+" Let's take sandwich spreads off the list, we have plenty at home.",remove
+" We have enough pasta sauces, so there's no need to buy more.",remove
+ We don't need to buy more canned fruits.,remove
+" Since we have enough crackers and crispbreads, we can remove it from the list.",remove
+" Let's take cooking oil off the list, we have enough.",remove
+" We have enough baking ingredients, so there's no need to buy more.",remove
+ We don't need to buy more spreads.,remove
+" Since we have enough canned vegetables, we can remove it from the list.",remove
+" Let's take cheese and dips off the list, we have enough.",remove
+" We have enough frozen meals, so there's no need to buy more.",remove
+ We don't need to buy more bread and rolls.,remove
+" Since we have enough meal kits, we can remove it from the list.",remove
+" Let's take beverages off the list, we have enough for now.",remove
+" We have plenty of fresh produce, so we can take it off the list.",remove
+" Let's take snacks and chips off the list, we have enough already.",remove
+" We don't need to buy more baking supplies, let's scratch that.",remove
+" We have enough candy and chocolate, so there's no need to buy more.",remove
+" Since we have enough pasta and noodles, we can remove it from the list.",remove
+ We don't need to buy more juice and milk.,remove
+" Let's take cereals and muesli off the list, we have enough for a while.",remove
+" We have enough dinner items, so no need to buy more.",remove
+" We don't need to buy more bakery products, let's cross that off.",remove
+" Let's take instant meals off the list, we have enough at home.",remove
+" We have enough dips and salsas, so there's no need to buy more.",remove
+ We don't need to buy more spices and herbs.,remove
+" Since we have enough pet food, we can remove it from the list.",remove
+" Let's take cleaning supplies off the list, we have enough.",remove
+" We have enough toiletries, so no need to buy more.",remove
+" We have enough canned soups, no need to buy more.",remove
+" Let's take crackers and chips off the list, we have enough.",remove
+" We have enough breakfast items, so there's no need to buy more.",remove
+" Let's take grains and rice off the list, we have enough.",remove
+" We don't need to buy more condiments, let's cross that off.",remove
+" We have enough baby food, so no need to buy more.",remove
+" Since we have enough frozen desserts, we can remove it from the list.",remove
+" Let's take tea and coffee off the list, we have enough for now.",remove
+" We have plenty of international foods, so we can take it off the list.",remove
+ We don't need to buy more soups and broths.,remove
+" Let's take poultry and meat off the list, we have enough.",remove
+" We have enough seafood, so no need to buy more.",remove
+" Since we have enough desserts, we can remove it from the list.",remove
+ We don't need to buy more canned fruits.,remove
+" Let's take pasta sauce off the list, we have enough.",remove
+" We have enough snack bars, so no need to buy more.",remove
+" Since we have enough eggs and dairy, we can remove it from the list.",remove
+" We don't need to buy more meat substitutes, let's cross that off.",remove
+" Let's take breadcrumbs and stuffing off the list, we have enough.",remove
+" We have enough sides and accompaniments, so there's no need to buy more.",remove
+" Since we have enough baking mixes, we can remove it from the list.",remove
+ We don't need to buy more breakfast meats.,remove
+" Let's take frozen potatoes off the list, we have enough.",remove
+" We have enough vegetarian options, so no need to buy more.",remove
+" Since we have enough nut butters, we can remove it from the list.",remove
+ We don't need to buy more cereal bars.,remove
+" Let's take deli meats and cheeses off the list, we have enough.",remove
+" We have enough soups and stews, so no need to buy more.",remove
+" Since we have enough batter and pancake mix, we can remove it from the list.",remove
+" We don't need to buy more ice cream and toppings, let's cross that off.",remove
+" We have enough canned vegetables, so no need to buy more.",remove
+" Since we have enough pasta, we can remove it from the list.",remove
+" We have enough juices, so no need to buy more.",remove
+" Let's take crackers and chips off the list, we have enough.",remove
+ We don't need to buy more jams and spreads.,remove
+" Since we have enough salsas and dips, we can remove it from the list.",remove
+" We have enough cookies, so no need to buy more.",remove
+" Let's take canned beans and lentils off the list, we have enough.",remove
+" We don't need to buy more granola, let's cross that off.",remove
+" Since we have enough rice and grains, we can remove it from the list.",remove
+" We have enough condiments, so no need to buy more.",remove
+" Let's take flour and baking ingredients off the list, we have enough.",remove
+ We don't need to buy more oils and vinegars.,remove
+" Since we have enough snack foods, we can remove it from the list.",remove
+" We have enough tortillas and wraps, so no need to buy more.",remove
+" Let's take salad dressings off the list, we have enough.",remove
+ We don't need to buy more canned tomatoes.,remove
+" Since we have enough sauces and marinades, we can remove it from the list.",remove
+" We have enough ready meals, so no need to buy more.",remove
+" Let's take pet food off the list, we have enough.",remove
+" We have plenty of bread and baked goods, so no need to buy more.",remove
+ We don't need to buy more fresh fruits.,remove
+" Since we have enough vegetables, we can remove it from the list.",remove
+" We have enough milk and dairy, so no need to buy more.",remove
+" Let's take eggs and egg products off the list, we have enough.",remove
+" We don't need to buy more meats and seafood, let's cross that off.",remove
+" Since we have enough breakfast foods, we can remove it from the list.",remove
+" We have enough baking supplies, so no need to buy more.",remove
+" Let's take beverages off the list, we have enough.",remove
+ We don't need to buy more frozen foods.,remove
+" Since we have enough canned fruits and juices, we can remove it from the list.",remove
+" We have enough coffee and tea, so no need to buy more.",remove
+" Let's take candy and chocolate off the list, we have enough.",remove
+ We don't need to buy more pasta sauces.,remove
+" Since we have enough bread crumbs and stuffing, we can remove it from the list.",remove
+" We have enough cereals and oatmeal, so no need to buy more.",remove
+" Let's take nuts and seeds off the list, we have enough.",remove
+ We don't need to buy more hummus and dips.,remove
+" Since we have enough international foods, we can remove it from the list.",remove
+" We have enough baby food and formula, so no need to buy more.",remove
+" Let's take paper products and household supplies off the list, we have enough.",remove
+ We don't need to buy more cleaning supplies.,remove
+" Since we have enough personal care items, we can remove it from the list.",remove
+" We have enough pet supplies, so no need to buy more.",remove
+" Let's take medications and first aid supplies off the list, we have enough.",remove
+" We have plenty of canned vegetables, so no need to buy more.",remove
+" We don't need to buy more crackers and snacks, let's cross that off.",remove
+" Since we have enough spices and seasonings, we can remove it from the list.",remove
+" We have enough condiments and sauces, so no need to buy more.",remove
+" Let's take candy and gum off the list, we have enough.",remove
+ We don't need to buy more juice and drinks.,remove
+" Since we have enough pasta and noodles, we can remove it from the list.",remove
+" We have enough cheese and dairy, so no need to buy more.",remove
+" Let's take flour and baking mixes off the list, we have enough.",remove
+" We don't need to buy more jams and spreads, let's cross that off.",remove
+" Since we have enough granola and energy bars, we can remove it from the list.",remove
+" We have enough canned soups, so no need to buy more.",remove
+" Let's take cooking oil and vinegar off the list, we have enough.",remove
+ We don't need to buy more salad dressings.,remove
+" Since we have enough yogurt and kefir, we can remove it from the list.",remove
+" We have enough rice and grains, so no need to buy more.",remove
+" Let's take broths and stocks off the list, we have enough.",remove
+" We don't need to buy more tofu and tempeh, let's cross that off.",remove
+" Since we have enough salsas and dips, we can remove it from the list.",remove
+" We have enough cereals and muesli, so no need to buy more.",remove
+" Let's take instant meals and soups off the list, we have enough.",remove
+ We don't need to buy more desserts and sweets.,remove
+" Since we have enough snack cakes and cookies, we can remove it from the list.",remove
+" We have enough chips and pretzels, so no need to buy more.",remove
+" Let's take popcorn and corn snacks off the list, we have enough.",remove
+" We don't need to buy more candy and chocolate, let's cross that off.",remove
+" Since we have enough beverages and mixers, we can remove it from the list.",remove
+" We have enough nuts and dried fruit, so no need to buy more.",remove
+" Let's take jerky and meat snacks off the list, we have enough.",remove
+ We don't need to buy more seafood and fish.,remove
+" We have plenty of bread and bakery items, so we don't need to buy more.",remove
+" Since we already have enough meat and poultry, we can strike that off the list.",remove
+" Let's take frozen fruits and vegetables off the list, we have sufficient supply.",remove
+" We don't need to buy more canned fruits and vegetables, let's cross it off.",remove
+" Since we have enough condiments and sauces, we can remove it from the list.",remove
+" We have enough baking ingredients, so no need to buy more.",remove
+" Let's take pizzas and frozen meals off the list, we have enough.",remove
+ We don't need to buy more crackers and snacks.,remove
+" Since we have enough canned beans and legumes, we can remove it from the list.",remove
+" We have enough baby food and formula, so no need to buy more.",remove
+" Let's take pet food and treats off the list, we have enough.",remove
+" We don't need to buy more household supplies, let's cross that off.",remove
+" Since we have enough personal care items, we can remove it from the list.",remove
+" We have enough medicines and first-aid supplies, so no need to buy more.",remove
+" Let's take paper products and cleaning supplies off the list, we have enough.",remove
+" I think we can remove the overripe bananas from the list, they won't be enjoyable to eat.",remove
+ Do we really need another pack of sugar? We already have one at home.,remove
+" The store might be out of our favorite brand of bread, should we cross it off the list?",remove
+" We don't need to buy canned vegetables, we still have some left from last week.",remove
+ Let's remove the out-of-stock item from the list.,remove
+" The sale on pasta has ended, shall we take it off the list?",remove
+" We have enough milk in the fridge, no need to buy more.",remove
+ Let's cross off the unnecessary snacks from the list.,remove
+ We can remove the item that we already have a surplus of.,remove
+" There's no need to buy more eggs, we still have plenty from our last visit.",remove
+ We can scratch off the duplicated item from the list.,remove
+ The ice cream has been crossed off the list since it's not healthy for us.,remove
+" We already have enough toiletries, let's remove any extra from the list.",remove
+ Let's remove the item that we decided not to buy.,remove
+ Shall we cross off the expensive ingredient that we can substitute with a cheaper one?,remove
+" There's no need to buy more coffee, we have enough for a few weeks already.",remove
+ We should remove the item that we've decided to cut out of our diet.,remove
+" We can take the seasonal item off the list, as it's not in season anymore.",remove
+ The leftover ingredients from our last meal can be used instead of buying new ones.,remove
+ Let's remove the junk food items from the list.,remove
+ The damaged item on the list should be replaced with a new one if possible.,remove
+" We have enough cleaning supplies, let's remove extra items from the list.",remove
+ The fresh produce should be checked first and any soon-to-expire items removed from the list.,remove
+ We can remove the non-essential items from the list.,remove
+" We already have a similar product at home, let's cross it off the list.",remove
+" We don't need any more paper products, we can remove them from the list.",remove
+ Let's remove the outdated or expired item from the list.,remove
+ We don't need to buy another bottle of water; we can refill the one we already have.,remove
+ We can remove any perishable item that we won't be able to consume before it spoils.,remove
+ We can take off the item that we forgot we already have at home.,remove
+" We can cross off bread, I just found a loaf in the pantry.",remove
+" There's no need to buy more eggs, we already have plenty.",remove
+" Since we have enough pasta, let's remove it from the list.",remove
+" We don't need to buy more salt, we still have some at home.",remove
+" There's no need for extra sugar, we have enough for now.",remove
+" We can remove bananas from the list, as we already have some ripe ones.",remove
+" Since we have enough onions, there's no need to buy more.",remove
+" There's no need to buy more coffee, we just restocked last week.",remove
+" We can scratch off lettuce from the list, we have some in the fridge.",remove
+" There's no need for more flour, we have a bag in the cupboard.",remove
+" We don't need to buy more tea, we have an ample supply.",remove
+" Since we have enough canned tomatoes, let's remove them from the list.",remove
+" We don't need to buy more cereal, we just opened a new box.",remove
+" There's no need for more dish soap, we have a full bottle.",remove
+" We can remove butter from the list, we still have some in the fridge.",remove
+" There's no need to buy more paper towels, we have a fresh pack.",remove
+" We don't need to buy more toothpaste, we just bought a new tube.",remove
+" Since we have enough chicken, let's remove it from the list.",remove
+" There's no need to buy more vegetables, we still have some in the crisper.",remove
+" We can scratch off juice from the list, we have enough for now.",remove
+" There's no need for more baking powder, we have a new can.",remove
+" We don't need to buy more soup, we have some in the pantry.",remove
+" Since we have enough fruit, let's remove it from the list.",remove
+" There's no need for more yogurt, we just bought some.",remove
+" We can remove cheese from the list, we still have some in the fridge.",remove
+" There's no need for more crackers, we have a full box.",remove
+" We don't need to buy more candy, we have some leftover from Halloween.",remove
+" Since we have enough ice cream, let's remove it from the list.",remove
+" There's no need for more chips, we have a fresh bag.",remove
+" We can scratch off soda from the list, we have enough for now.",remove
+" There's no need to buy more eggs, we already have plenty.",remove
+" We can scratch bread off the list, we have enough at home.",remove
+" Since we have enough chicken, let's not add more to the list.",remove
+" We don't need to buy potatoes, we still have some left.",remove
+" Since we have sufficient pasta, let's remove it from the list.",remove
+" We have enough onions, so no need to add them to the list.",remove
+" There's no need to buy more cheese, we already have enough.",remove
+" We can remove yogurt from the list, as we have enough.",remove
+" We don't need to buy carrots, we still have some at home.",remove
+" Since we have enough butter, let's not add more to the list.",remove
+" We have enough salt, so no need to add it to the list.",remove
+" There's no need to buy more pepper, we already have enough.",remove
+" We don't need to buy toast, we still have some at home.",remove
+" Since we have enough jam, let's not add more to the list.",remove
+" We have enough honey, so no need to add it to the list.",remove
+" There's no need to buy more sugar, we already have enough.",remove
+" We can remove flour from the list, as we have enough.",remove
+" We don't need to buy tomatoes, we still have some at home.",remove
+" Since we have enough lettuce, let's not add more to the list.",remove
+" We have enough cucumbers, so no need to add it to the list.",remove
+" There's no need to buy more garlic, we already have enough.",remove
+" We can remove tea from the list, as we have enough.",remove
+" We don't need to buy coffee, we still have some at home.",remove
+" Since we have enough cereal, let's not add more to the list.",remove
+" We have enough juice, so no need to add it to the list.",remove
+" There's no need to buy more soda, we already have enough.",remove
+" We can remove water from the list, as we have enough.",remove
+" We don't need to buy chocolate, we still have some at home.",remove
+" Since we have enough chips, let's not add more to the list.",remove
+" We have enough cookies, so no need to add it to the list.",remove
+" We can cross off bread, I just found a loaf in the pantry.",remove
+" There's no need to buy more butter, we have plenty at home.",remove
+" We can remove eggs from the list, I remember we bought some last week.",remove
+" Since we have enough pasta, there's no need to add it to the list.",remove
+" We can scratch off bananas from the list, as we already have too many.",remove
+" There's no need for cheese, we still have a few blocks in the fridge.",remove
+" We can remove canned tomatoes from the list, we have enough for now.",remove
+" There's no need for chicken, we bought some yesterday.",remove
+" We can scratch off sugar from the list, I just found a full bag.",remove
+" There's no need for yogurt, we have enough for the week.",remove
+" We can remove onions from the list, as we have enough for the recipes.",remove
+" There's no need for breadcrumbs, we have some in the pantry.",remove
+" We can scratch off potatoes from the list, as we have a good supply.",remove
+" There's no need for baking powder, we have an unopened box.",remove
+" We can remove salad from the list, I just made one.",remove
+" There's no need for popcorn, we still have some from the last movie night.",remove
+" We can scratch off mayonnaise from the list, I found a fresh jar.",remove
+" There's no need for tea, we have a stocked pantry.",remove
+" We can remove coffee from the list, we bought some yesterday.",remove
+" There's no need for cereal, we just opened a new box.",remove
+" We can scratch off frozen vegetables from the list, as we have enough.",remove
+" There's no need for ice cream, we have a full carton.",remove
+" We can remove juice from the list, we have several bottles.",remove
+" There's no need for crackers, we recently bought some.",remove
+" We can scratch off canned tuna from the list, as we have other protein options.",remove
+" There's no need for beef, we have enough meat in the freezer.",remove
+" We can remove cooking oil from the list, I just bought a new bottle.",remove
+" There's no need for paper towels, we got some during our last visit.",remove
+" We can scratch off soap from the list, I bought a new pack.",remove
+" There's no need for toothpaste, we still have a spare tube.",remove
+" We can cross off bread, I just found a loaf in the pantry.",remove
+" There's no need to buy more eggs, we already have plenty.",remove
+" Since we have enough pasta, let's remove it from the list.",remove
+" We don't need to buy more butter, we still have some left.",remove
+" Let's scratch off salt from the list, we have a full container.",remove
+" Since we have enough chicken, we can remove it from the list.",remove
+" There's no need for more oranges, we have enough for the week.",remove
+" We can remove cheese from the list, I just found some in the fridge.",remove
+" There's no need to buy more bananas, we have enough for our needs.",remove
+" We have enough lettuce for a few days, so let's remove it from the list.",remove
+" Since we have enough rice, we can cross it off the list.",remove
+" We don't need to buy more coffee, we have enough for now.",remove
+" Let's remove cereal from the list, I just saw a box in the cabinet.",remove
+" There's no need for more yogurt, we still have some at home.",remove
+" We have enough onions, so we can remove them from the list.",remove
+" Since we have enough potatoes, we can cross them off the list.",remove
+" There's no need to buy more tea, we still have a couple of boxes.",remove
+" We can remove sugar from the list, we have plenty.",remove
+" There's no need for more flour, we have a bag in the pantry.",remove
+" We have enough canned tomatoes, so let's remove them from the list.",remove
+" Since we have enough vegetables, we can cross them off the list.",remove
+" We don't need to buy more chocolate, we have some left.",remove
+" Let's remove juice from the list, I just found a container in the fridge.",remove
+" There's no need for more crackers, we still have some from the last time.",remove
+" We have enough breadcrumbs, so let's remove them from the list.",remove
+" Since we have enough oil, we can cross it off the list.",remove
+" We don't need to buy more vinegar, we still have a bottle.",remove
+" Let's remove mustard from the list, I just saw a jar in the fridge.",remove
+" There's no need for more ketchup, we have enough.",remove
+" We have enough frozen berries, so let's remove them from the list.",remove
+" We can cross off bread, I just found a loaf in the pantry.",remove
+" There's no need to buy more eggs, we already have plenty.",remove
+" We can remove cheese from the list, as we have enough at home.",remove
+" Since we have enough butter, we can take it off the list.",remove
+" No need for yogurt, we have enough for the week.",remove
+" We can scratch off salad mix, we still have some in the fridge.",remove
+" There's no need to buy more coffee, our supply is sufficient.",remove
+" We have enough chicken, so we can remove it from the list.",remove
+" We can cross off pasta, there's a full pack in the pantry.",remove
+" No need for jam, it's already in our cabinet.",remove
+" We can remove cereal from the list, as we have enough.",remove
+" We don't need to buy more crackers, we have some left over.",remove
+" There's no need for soup, we already have several cans.",remove
+" We can scratch off juice, we have enough in the fridge.",remove
+" There's no need for tea, we have an ample supply.",remove
+" We have enough frozen vegetables, so we can remove them from the list.",remove
+" No need for ice cream, we have plenty in the freezer.",remove
+" We can scratch off candy, it's not necessary.",remove
+" There's no need for cookies, we already have some.",remove
+" We have enough snacks, so we can cross them off the list.",remove
+" No need for soda, we can do without it this week.",remove
+" We can take off canned fruit, as we have enough at home.",remove
+" We have enough baking ingredients, so we can remove them from the list.",remove
+" No need for breadcrumbs, they're in the pantry.",remove
+" We have enough potatoes, so we can remove them from the list.",remove
+" We can cross off onions, we still have some left.",remove
+" No need for lettuce, we have enough greens.",remove
+" We don't need to buy more canned tomatoes, we already have some.",remove
+" We can remove mayo from the list, as we already have a jar.",remove
+" There's no need for parmesan, as we already have some.",remove
+" There's no need to add more pasta, we already have plenty.",remove
+" We can skip the bread this time, we have enough at home.",remove
+" We don't need to buy more eggs, we have a full carton.",remove
+ There are already enough tomatoes on the list.,remove
+" We have enough sugar, so we can remove it from the list.",remove
+" We don't need more salt, we have enough for now.",remove
+" Since we have enough bananas, we can take them off the list.",remove
+" We can remove onions from the list, as we have plenty.",remove
+" As we have enough canned beans, we don't need to add more.",remove
+" Since we have enough condiments, we don't need to buy any more.",remove
+" There is no need for more tea, as we have sufficient stock.",remove
+" We don't need to buy more lettuce, we have enough.",remove
+" We have a surplus of carrots, so we can omit them from the list.",remove
+" We have enough rice, so no need to buy more.",remove
+" We can remove coffee from the list, as we just bought some.",remove
+" As we have enough cereal, we don't need to buy any more.",remove
+" Since we have enough yogurt, we don't need to add it to the list.",remove
+" We have enough cheese, so no need to buy any more.",remove
+" We can remove potatoes from the list, as we have a full bag.",remove
+" We already have enough baking ingredients, so we don't need to buy more.",remove
+" There is no need for bottled water, as we have a filter.",remove
+" We can take canned soup off the list, as we have a stockpile.",remove
+" We have enough juice, so we don't need to buy any more.",remove
+" Since we have enough snacks, we don't need to add any more.",remove
+" We have enough pasta sauce, so no need to add it to the list.",remove
+" We can take breadcrumbs off the list, as we have enough.",remove
+" We have enough frozen fruits, so we don't need to buy any more.",remove
+" There is no need for more chocolate, as we have plenty.",remove
+" As we have enough canned vegetables, we don't need to add more.",remove
+" Since we have enough nuts and dried fruits, we don't need to buy any more.",remove
+" We can cross off bread, I just found a loaf in the pantry.",remove
+" There's no need to buy more pasta, we have plenty at home.",remove
+" We can remove eggs from the list, I think we bought too many last time.",remove
+" There's no need for another bottle of olive oil, we already have one.",remove
+" We can scratch off bananas from the list, as we have enough ripe ones.",remove
+" No need for salt, we have an unopened bag in the cupboard.",remove
+" We can remove lettuce from the list, as we still have some from our last shopping trip.",remove
+" There's no need for more sugar, we have a full bag in the pantry.",remove
+" We can cross off canned tomatoes, we have enough stocked up.",remove
+" No need for coffee, we just bought some last week.",remove
+" We can remove baking powder from the list, we have a brand new can.",remove
+" There's no need for more apples, we already have a full fruit bowl.",remove
+" We can scratch off toothpaste from the list, we have a spare one in the bathroom.",remove
+" No need for more dishwashing liquid, we have a bottle sitting in the kitchen.",remove
+" We can cross off rice from the list, we have a large bag in the cupboard.",remove
+" There's no need for more vegetables, we bought some at the farmer's market yesterday.",remove
+" We can remove butter from the list, I just found some in the fridge.",remove
+" No need for tea, we have a variety of teas already.",remove
+" We can scratch off flour from the list, we have a bag open in the pantry.",remove
+" There's no need for more cheese, we have a few blocks in the fridge.",remove
+" We can cross off cereal from the list, we have sufficient supply.",remove
+" No need for yogurt, we have plenty in the fridge.",remove
+" We can remove broth from the list, we have a can in the pantry.",remove
+" There's no need for more baking sheets, we have enough for now.",remove
+" We can scratch off paper towels from the list, we just bought a pack.",remove
+" No need for more hand soap, we have multiple bottles in the bathroom.",remove
+" We can cross off juice from the list, we still have a few cartons in the fridge.",remove
+" There's no need for more cutting boards, we have a couple of spare ones.",remove
+" We can remove canned tuna from the list, as we don't need it for our meal plan.",remove
+" No need for more chocolate, we still have some that we haven't tried.",remove
+" We can cross off bread, I just noticed we have a loaf in the pantry.",remove
+" There's no need to add salt to the list, we already have an unopened box at home.",remove
+" We have plenty of bananas, let's remove them from the list.",remove
+" Since we have enough eggs, there's no need to buy more.",remove
+" We can scratch off cooking oil, we still have a sufficient amount at home.",remove
+" There's no need for lettuce, we have enough for the week.",remove
+" Since we have an ample supply of pasta, let's remove it from the list.",remove
+" We have more than enough toilet paper, so we can remove it from the list.",remove
+" As we already have baking powder, there's no need to buy more.",remove
+" We can cross off onions, as we still have some left from our previous purchase.",remove
+" We have enough sugar, so we don't need to add it to the list.",remove
+" There's no need for pepper, as we have a full container at home.",remove
+" Since we have an abundance of canned tomatoes, we can remove them from the list.",remove
+" We have plenty of coffee, so there's no need to add it to the list.",remove
+" We don't need to buy more toothpaste, so let's remove it from the list.",remove
+" We have an adequate supply of dish soap, so there's no need to add it.",remove
+" Since we have a sufficient amount of bottled water, we can remove it from the list.",remove
+" As we already have mayonnaise, we don't need to buy more.",remove
+" We have enough vinegar, so let's remove it from the list.",remove
+" There's no need to buy more breadcrumbs, as we still have some in the pantry.",remove
+" We have a surplus of garlic, so we can take it off the list.",remove
+" Since we have a full container of baking soda, let's remove it from the list.",remove
+" We have more than enough snacks, so we can cross it off the list.",remove
+" We have enough soup, so we don't need to add it to the list.",remove
+" There's no need for juice, as we already have some in the fridge.",remove
+" Since we have a stock of tissues, let's remove it from the list.",remove
+" We have enough detergent, so we don't need to add it to the list.",remove
+" There's no need to buy more cleaning supplies, as we have enough at home.",remove
+" We have plenty of frozen vegetables, so we can remove it from the list.",remove
+" Since we have an abundance of cereal, we can take it off the list.",remove
+" There's no need to buy more bread, we have enough at home.",remove
+" We can cross off eggs from the list, as we just found some in the fridge.",remove
+" Since we already have plenty of pasta, let's remove it from the shopping list.",remove
+" We have enough salt, so we don't need to add it to the list anymore.",remove
+" As we have more than enough onions, let's scratch them off the shopping list.",remove
+" No need for another bottle of ketchup, we still have some left from last time.",remove
+" We can remove butter from the list, as we don't need it anymore.",remove
+" With the amount of cheese we already have, we can take it off the shopping list.",remove
+" Since we just bought cereal, we can remove it from the list.",remove
+" With the amount of coffee we have, there's no need to buy more at the moment.",remove
+" We have enough jelly, so there's no need to add it to the list.",remove
+" With the amount of soup we have, we can cross that off the list.",remove
+" We don't need to buy more toothpaste, as we have enough for now.",remove
+" As we have enough juice, let's remove it from the shopping list.",remove
+" With the amount of vegetables we have, we can take them off the list.",remove
+" Since we have enough rice, we can remove it from the shopping list.",remove
+" No need for more napkins, as we have enough stock at home.",remove
+" With the amount of fruit we have, we can cross that off the list.",remove
+" We don't need to buy more shampoo, as we have enough left.",remove
+" We have enough soap, so there's no need to add it to the list.",remove
+" With the amount of crackers we have, we can take them off the shopping list.",remove
+" Since we have enough detergent, we can remove it from the shopping list.",remove
+" We don't need to buy more tissues, as we have enough at the moment.",remove
+" As we have enough tea, let's remove it from the shopping list.",remove
+" With the amount of canned goods we have, we can cross that off the list.",remove
+" We don't need to buy more dish soap, as we have enough stock at home.",remove
+" With the amount of paper towels we have, we can take them off the shopping list.",remove
+" Since we have enough baking supplies, we can remove it from the shopping list.",remove
+" We have enough pet food, so there's no need to add it to the list.",remove
+" With the amount of cleaning supplies we have, we can cross that off the list.",remove
+" We can cross out bread, we have enough at home.",remove
+" There's no need to add more eggs, we already have plenty.",remove
+" We can remove bananas from the list, let's skip them this time.",remove
+" No need for milk, we bought it yesterday.",remove
+" We have enough lemons, take them off the list.",remove
+" We don't need to buy potatoes, we still have some left.",remove
+" Take chicken off the list, we've got enough meat for the week.",remove
+" No need for another bottle of juice, we already have one.",remove
+" We can remove yogurt from the list, we're not out yet.",remove
+" There's no need for cheese, we have enough for sandwiches.",remove
+" We can skip buying cereal this time, we have some left.",remove
+" We don't need to buy more pasta, we have enough.",remove
+" Take canned tomatoes off the list, we have enough for now.",remove
+" No need for more rice, we have enough for several meals.",remove
+" We can remove butter from the list, we still have some left.",remove
+" We don't need to buy more salt, we have a full container.",remove
+" Take sugar off the list, we have enough for baking.",remove
+" No need for more tea, we have enough for a while.",remove
+" We can remove baking powder from the list, we have some left.",remove
+" We don't need to buy more flour, we have enough for now.",remove
+" Take bread crumbs off the list, we still have some.",remove
+" No need for more baking chocolate, we have enough for desserts.",remove
+" We can skip buying vanilla extract this time, we have some left.",remove
+" We don't need to buy more cocoa powder, we still have some.",remove
+" Take chopped nuts off the list, we have enough for baking.",remove
+" No need for more baking chips, we have enough for cookies.",remove
+" We can remove vinegar from the list, we have enough.",remove
+" We don't need to buy more oil, we still have some.",remove
+" Take canned tuna off the list, we have enough for sandwiches.",remove
+" No need for more canned vegetables, we have enough for a few days.",remove
+" Scratch pork chops, we have too much chicken.",remove
+" No need for bread, it's stale.",remove
+" Remove avocados, they're overripe.",remove
+" Eliminate ice cream, ran out of freezer space.",remove
+" Forget the soda, we're out of stock.",remove
+" Delete cheese, someone's allergic.",remove
+" No need for rice, plenty in pantry.",remove
+" Scrap butter, we have enough for now.",remove
+" No more yogurt, ran out of space.",remove
+" Cancel peanut butter, none left.",remove
+" Strike cereal, bought some yesterday.",remove
+" No tortillas, we still have some.",remove
+" Forget tomatoes, too many rotten ones.",remove
+" Not potatoes, we have too many.",remove
+" Pass on bananas, not ripened.",remove
+" Lose the ketchup, got two bottles already.",remove
+" Dump mayo, we don’t use it frequently.",remove
+" Ignore juice, no fridge space.",remove
+" Cross out chips, found some old ones.",remove
+" No pasta, we have leftovers.",remove
+" Don't add jam, no one eats it.",remove
+" Remove eggs, too many uncracked ones.",remove
+" Scrap nuts, allergic issues.",remove
+" Not onions, have fresh ones.",remove
+" Forget spinach, already have some.",remove
+" No more carrots, plenty in fridge.",remove
+" Lose garlic, have enough.",remove
+" Ignore canned veg, no need.",remove
+" Cross out tea, no room for new stock.",remove
+" No cranberry sauce, saved from last time.",remove
+" Scratch cat food, found leftovers in fridge.",remove
+" No more bananas needed, overripe ones at home.",remove
+" Extra bread isn't necessary, freezer has plenty.",remove
+" Forget the yogurt, ran out of space in fridge.",remove
+" Don't buy eggs, just discovered unused carton.",remove
+" No need for cheese, mum sent some earlier.",remove
+" We have enough butter, skip it on the list.",remove
+" Cancel juice from list, got a big bottle yesterday.",remove
+" Too many apples already, avoid buying more.",remove
+" Lettuce is abundant, let's not buy anymore.",remove
+" Forget the cereal, we still have a full box.",remove
+" We're good on canned beans, no need for extras.",remove
+" Spare the pasta, there's enough in the pantry.",remove
+" Don't bother with chips, we bought some last week.",remove
+" No need for frozen veg, stocked up recently.",remove
+" Scrape jam from list, several jars in the cupboard.",remove
+" Cancel chocolate, found some hidden stash.",remove
+" No requirement for crackers, plenty available.",remove
+" Spare the tea, sufficient supply at home.",remove
+" Don't add mustard, enough bottles in the fridge.",remove
+" We're fine on coffee, skip it on the list.",remove
+" No space for wine, leave it off the list.",remove
+" Forget the cookies, discovered unopened pack.",remove
+" No need for oil, pantry is full.",remove
+" Spare the vinegar, got enough.",remove
+" Don't buy sugar, we have plenty.",remove
+" We're good on flour, no need for more.",remove
+" No need for salt, stocked up recently.",remove
+" Spare the pepper, still have some.",remove
+" Don't buy baking powder, got unused pack.",remove
+" Scratch pork chops, we have too much chicken.",remove
+" No need for bread, it's stale.",remove
+" We have plenty of sugar, remove from list.",remove
+" Eliminate tomato juice, we already have enough.",remove
+" No need for pasta, we have sufficient rice.",remove
+" Remove cake mix, we bought one earlier.",remove
+" We already have enough apples, exclude from list.",remove
+" No need for onions, we have an excess.",remove
+" Eliminate cereal, there's an open box.",remove
+" Remove coffee from list, we're out of filters.",remove
+" No need for carrots, they're going bad.",remove
+" We don't need potatoes, too many in the pantry.",remove
+" Eliminate cheese, it's close to expiring.",remove
+" No need for crackers, we have plenty of chips.",remove
+" Remove tea from list, ran out of sweetener.",remove
+" We have enough lettuce, exclude from list.",remove
+" No need for yogurt, it's nearly expired.",remove
+" We don't need eggs, we bought too many.",remove
+" Eliminate mustard, we have a full bottle.",remove
+" No need for canned beans, we have dried ones.",remove
+" Remove ice cream from list, it's a bad idea for dinner.",remove
+" We already have enough bananas, exclude from list.",remove
+" No need for tortillas, we have bread.",remove
+" We don't need juice, we have smoothies.",remove
+" Eliminate mayo, we have a homemade version.",remove
+" No need for granola, we have cereal.",remove
+" Remove garlic from list, we have a jar.",remove
+" We already have enough broth, exclude from list.",remove
+" No need for chocolate, we're on a diet.",remove
+" We don't need nuts, we have trail mix.",remove
+" Scratch pasta, we have plenty of rice.",remove
+" No need for bread, it's still fresh from yesterday.",remove
+" Remove eggs, they're close to expiring.",remove
+" Forget butter, we have a full tub at home.",remove
+" Take off lettuce, we bought some yesterday.",remove
+" No need for onions, enough in the pantry.",remove
+" Skip cheese, we have a large block already.",remove
+" Cross out chicken, we have leftovers for days.",remove
+" No more yogurt, the fridge is full.",remove
+" Don't add jam, we still have a jar unopened.",remove
+" No space for sugar, we bought a bag last week.",remove
+" Cancel bacon, we have a surplus in the freezer.",remove
+" No need for cereal, we just restocked.",remove
+" Take off juice, we have enough for a week.",remove
+" No room for chips, we have a whole bag uneaten.",remove
+" Forget salsa, plenty left from last time.",remove
+" Remove crackers, we have a full box at home.",remove
+" No more coffee, we bought some yesterday.",remove
+" Don't add tea, a big box is waiting at home.",remove
+" No space for cookies, just bought a pack.",remove
+" Cancel frozen meals, we need to eat what we have.",remove
+" No need for soda, enough for the week.",remove
+" Take off tomatoes, plenty ripe on the counter.",remove
+" No more cucumbers, enough for salad.",remove
+" Don't add bell peppers, just bought some.",remove
+" No space for mushrooms, enough for a few meals.",remove
+" Cancel canned goods, we're good for a while.",remove
+" No need for baking supplies, recent purchase.",remove
+" Don't add snacks, we shouldn't indulge.",remove
+" No more condiments, we have a well-stocked fridge.",remove
+" Scratch mangoes, we have plenty at home.",remove
+" No need for extra salt, we already have some.",remove
+" Let's remove canned tuna, we bought it last week.",remove
+" Strikethrough pasta, we have enough servings for now.",remove
+" Forget about bread, we still have a whole loaf.",remove
+" No need for tomatoes, we bought too many earlier.",remove
+" Take lemonade off the list, we already have some.",remove
+" Cross off chicken, we'll use the frozen pack instead.",remove
+" Remove cheese, we still have plenty left.",remove
+" No need for crackers, we bought it last time.",remove
+" Let's not get eggs, we have a full carton.",remove
+" Strikethrough onions, we've got enough.",remove
+" Forget butter, we just opened a new pack.",remove
+" No need for jam, we have plenty at home.",remove
+" Take yogurt off the list, we still have some.",remove
+" Cross off frozen meals, we have enough for dinner tonight.",remove
+" Remove ice cream, we bought a tub last night.",remove
+" No need for baking supplies, we are not baking this week.",remove
+" Let's not get snacks, we still have some left.",remove
+" Strikethrough vegetables, we have enough greens.",remove
+" Forget fruit, we have leftovers from yesterday.",remove
+" No need for granola, we still have some from the last shop.",remove
+" Take coffee off the list, we bought extra bags last week.",remove
+" Cross off tea, we have a surplus at home.",remove
+" Remove sugar, we already have a full bag.",remove
+" No need for candy, we have leftovers from Halloween.",remove
+" Let's not get soda, we still have some in the fridge.",remove
+" Strikethrough juice, we bought too many last time.",remove
+" Forget chips, we have enough.",remove
+" No need for dip, we made some from yesterday's leftovers.",remove
+" Scratch pork chops, we have too many steaks.",remove
+" No need for bread, it's stale.",remove
+" Forget butter, we're out of milk.",remove
+" Eliminate bananas, they're overripe.",remove
+" No more cheese, we've reached our limit.",remove
+" Scrap the cereal, we still have some from last week.",remove
+" No avocados, they're not ripe yet.",remove
+" Cancel cookies, we bought some at the bakery.",remove
+" No yogurt, it's past its best-by date.",remove
+" Eliminate tomatoes, they're moldy.",remove
+" No chips, hubby ate them all.",remove
+" Forget onions, we have enough.",remove
+" No pasta, we have rice.",remove
+" Scrap apples, too bruised.",remove
+" No carrots, they're limp.",remove
+" Eliminate oranges, they're dry.",remove
+" No lettuce, it's wilted.",remove
+" Cancel grapes, ants found them.",remove
+" No salt, we have soy sauce.",remove
+" Eliminate pepper, we still have paprika.",remove
+" No eggs, they're cracked.",remove
+" Scrap bacon, it's freezer-burnt.",remove
+" No mushrooms, they're slimy.",remove
+" Forget chicken, it's thawed.",remove
+" No limes, they're shriveled.",remove
+" Eliminate olives, they're rancid.",remove
+" No mayonnaise, it's separated.",remove
+" Scrap potatoes, they're sprouting.",remove
+" No broccoli, it's discolored.",remove
+" Forget garlic, it's moldy.",remove
+" Scratch the extra butter, we have plenty.",remove
+" No need for more bananas, we're set.",remove
+" Eliminate the extra cheese, we have enough.",remove
+" We don't need additional apples, we have enough.",remove
+" Forget the extra bread, we're good.",remove
+" No more eggs needed, we have plenty.",remove
+" We have enough lettuce, remove from list.",remove
+" No need for extra sugar, we're fine.",remove
+" Strike the extra flour, we have sufficient.",remove
+" Don't add more meat, we have enough.",remove
+" We don't need more milk, we already have some.",remove
+" Forget the extra onions, we have enough.",remove
+" Remove the extra potatoes, we're good.",remove
+" No need for more rice, we're set.",remove
+" Eliminate the extra pasta, we have enough.",remove
+" We have enough vegetables, remove from list.",remove
+" No need for extra fruit, we're fine.",remove
+" Strike the extra yogurt, we have sufficient.",remove
+" Don't add more juice, we have enough.",remove
+" We don't need more bread, we already have some.",remove
+" Forget the extra coffee, we have enough.",remove
+" Remove the extra tea, we're good.",remove
+" No need for more cereal, we're set.",remove
+" Eliminate the extra nuts, we have enough.",remove
+" We have enough chocolate, remove from list.",remove
+" No need for extra chips, we're fine.",remove
+" Strike the extra dip, we have sufficient.",remove
+" Don't add more soda, we have enough.",remove
+" We don't need more water, we're good.",remove
+" Forget the extra snacks, we have enough.",remove
+" Scratch the cereal, we have enough at home.",remove
+ No need for another jar of pasta sauce.,remove
+" We don't need to buy bread, it's still fresh.",remove
+" Forget about the crackers, we have plenty.",remove
+" We have enough cheese, let's remove it from the list.",remove
+" Let's cross off the soup, we already have some.",remove
+" No need for chocolate, we still have some left.",remove
+" We don't need more eggs, the fridge is full.",remove
+" We have enough juice, let's remove it.",remove
+" Forget about the grapes, we have too many already.",remove
+" We have enough yogurt, no need to buy more.",remove
+ No need for another bottle of water.,remove
+" We don't need to buy potatoes, we have enough.",remove
+" Let's cross off the coffee, we're good.",remove
+" We have enough lettuce, let's skip it.",remove
+" No need for more onions, we have a bunch unused.",remove
+" Forget about the chips, we still have a bag.",remove
+" We don't need butter, the old one is still good.",remove
+" Let's remove the mayonnaise, we have plenty.",remove
+" No need for the sugar, we have a big pack.",remove
+" We have enough flour, let's not buy more.",remove
+" Forget about the salt, we don't need any.",remove
+" We don't need to buy more pepper, we have some.",remove
+" Let's cross off the vinegar, we already have enough.",remove
+" No need for garlic, we have fresh ones.",remove
+" We have enough tomatoes, skip it.",remove
+" Forget about the cucumbers, we have enough.",remove
+" We don't need more apples, the fruit basket is full.",remove
+" Let's remove the bananas, we have enough.",remove
+" No need for oranges, we have a lot already.",remove
+" Scratch butter, there's enough at home.",remove
+ We don't need more napkins.,remove
+" Too many apples, reduce by half.",remove
+ Eliminate second bag of flour.,remove
+ No need for extra sugar.,remove
+" Cancel bread, we have enough.",remove
+ We already have enough pasta.,remove
+" Scrap oranges, bought some yesterday.",remove
+ Don't need two types of cheese.,remove
+" Reduce bananas from list, plenty already.",remove
+ No more salt required.,remove
+" Forget tea, we still have a full box.",remove
+ We don't need another loaf of bread.,remove
+" Remove canned beans, enough already.",remove
+ No extra lettuce necessary.,remove
+" Don't add chips, just checked, we have some.",remove
+ We have enough cooking oil.,remove
+ No need for more yogurt.,remove
+ We don't need two cartons of juice.,remove
+" Remove coffee, we bought some recently.",remove
+ Scrap second bottle of water.,remove
+ No need for chocolate.,remove
+ We have enough cereal.,remove
+" Don't add crackers, bought some last week.",remove
+ We have plenty of canned vegetables.,remove
+ No more ice cream needed.,remove
+ We don't need another bottle of wine.,remove
+" Remove canned soup, stocked up recently.",remove
+ No need for more mustard.,remove
+ We have enough paper towels.,remove
+"Sure, here are 30 sentences suggesting items to remove from a grocery list:",remove
+ We don't need more bread; we already have two loaves.,remove
+" Let's remove canned beans, we have plenty in the pantry.",remove
+" We can skip the pasta this time, we have enough at home.",remove
+" No need for milk, we just bought some yesterday.",remove
+" We have enough onions, let's take them off the list.",remove
+" We can scratch avocados from the list, they're not in season.",remove
+" Let's not buy bananas, they'll just go bad before we eat them.",remove
+" We can't get ice cream, we're trying to eat healthier.",remove
+" No need for cheese, we have plenty left from last week.",remove
+" Let's remove the soda, it's not good for us.",remove
+" We have enough cereal, let's skip it this time.",remove
+" No need for eggs, we still have a dozen in the fridge.",remove
+" We can remove lettuce from the list, it wilts too quickly.",remove
+" Let's not buy nuts, we already have a big bag at home.",remove
+ We have enough yogurt.,remove
+" No need for rice, we bought some last week.",remove
+" We can scratch tomatoes from the list, they're not on sale.",remove
+" Let's not buy chocolate, we're trying to cut back.",remove
+" We don't need more coffee, we just opened a new bag.",remove
+" We can remove potatoes from the list, we have two bags already.",remove
+" No need for chicken, we have plenty in the freezer.",remove
+" Let's not buy fruit juice, it's full of sugar.",remove
+" We have enough crackers, let's skip them this time.",remove
+" No need for cookies, we're trying to eat better.",remove
+" We can remove pepper from the list, we have plenty.",remove
+" Let's not buy more salt, we still have a big container.",remove
+ We have enough vinegar.,remove
+" No need for baking powder, it doesn't expire soon.",remove
+" We can remove flour from the list, we have a big bag.",remove
+" Let's not buy broth, we can make our own from scratch.",remove
+" Strike canned soup, we should make homemade.",remove
+" Scratch cookies, we accidentally added them twice.",remove
+" No need for bread, we have a loaf in the freezer.",remove
+" Let's not buy frozen meals, they're highly processed.",remove
+" We can remove salad dressing from the list, we can make our own.",remove
+" No need for baking chocolate, we have chips.",remove
+" Let's not buy more tea, our pantry is overflowing.",remove
+ We have enough pasta.,remove
+" No need for mayo, we can use greek yogurt instead.",remove
+" Let's not buy hummus, we still have some from last week.",remove
+" We can remove granola from the list, we can make our own.",remove
+" No need for jam, we have plenty of frozen berries.",remove
+" Let's not buy tofu, it expires too quickly.",remove
+" We have enough pickles, let's skip them this time.",remove
+" No need for tortillas, we can use lettuce wraps.",remove
+" Let's not buy more condiments, they never expire.",remove
+" We have enough candy, let's not buy more.",remove
+" No need for juice boxes, we can make our own.",remove
+" Let's not buy a rotisserie chicken, it's pricy.",remove
+" We can remove soup from the list, we don't need it.",remove
+" No need for appetizers, we can make do with main dishes.",remove
+" Let's not buy energy drinks, they're full of caffeine.",remove
+" We can remove tissue from the list, we have enough.",remove
+" No need for alcohol, we're trying to limit our intake.",remove
+" Let's not buy shampoo, we just bought some last month.",remove
+" Strike crisps, we have homemade crackers.",remove
+" Scratch bottled water, we can refill reusable bottles.",remove
+" No need for cereal, we can make muesli.",remove
+" Let's not buy cheese, we have too much in the fridge.",remove
+" We can remove yogurt from the list, it's high in sugar.",remove
+" No need for ice cream, we can make fruit sorbet.",remove
+" Let's not buy chips, it's better for our health.",remove
+" We have enough crackers, let's take them off the list.",remove
+" No need for jam, we can use fresh fruit instead.",remove
+" Let's not buy butter, we have margarine.",remove
+" We can remove nuts from the list, we still have some from before.",remove
+" No need for olives, we have pickles.",remove
+" Let's not buy popcorn, we can make stovetop.",remove
+" We can remove salsa from the list, we don't need it.",remove
+" No need for nuts, we can use sunflower seeds.",remove
+" Let's not buy snack bars, they're full of additives.",remove
+" We have enough veggie sticks, let's skip them this time.",remove
+" No need for honey, we can use agave nectar.",remove
+" Let's not buy crackers, we can use cucumber slices.",remove
+" We can remove granola from the list, it's high in calories.",remove
+" No need for soda, we can drink water.",remove
+" Let's not buy candy, it's not good for our teeth.",remove
+" We can remove pasta from the list, we have rice.",remove
+" No need for bread, we have tortillas.",remove
+" Let's not buy canned soup, it's high in sodium.",remove
+" We can remove frozen meals from the list, we can cook fresh.",remove
+" No need for juice, it's full of sugar.",remove
+" Let's not buy coffee, we have tea.",remove
+" We can remove chocolate from the list, it's high in fat.",remove
+" No need for dip, we have hummus.",remove
+" Let's not buy salad dressing, we can make our own.",remove
+" We can remove cake from the list, it's not healthy.",remove
+" No need for cookies, we have fruit.",remove
+" Let's not buy ice cream, it's high in fat.",remove
+" We can remove chips from the list, we have veggies.",remove
+" No need for crackers, we have rice cakes.",remove
+" Let's not buy salsa, we have fresh tomatoes.",remove
+" We can remove guacamole from the list, it's high in fat.",remove
+" No need for queso, we have cheese.",remove
+" Let's not buy tamales, we have leftovers.",remove
+" Let's skip breakfast bars, they're high in sugar.",remove
+" We have enough pasta, no need to buy more.",remove
+" No need for mayo, we can use avocado.",remove
+" Let's not buy popcorn, we have chips.",remove
+" We can remove ice tea from the list, we can drink water.",remove
+" No need for protein bars, we have nuts.",remove
+" Let's not buy cereal, we have oatmeal.",remove
+" We can remove soup from the list, we have leftovers.",remove
+" No need for butter, we have olive oil.",remove
+" Let's not buy sushi, we have rice and fish.",remove
+" We can remove yogurt from the list, we have kefir.",remove
+" No need for cream cheese, we have cottage cheese.",remove
+" Let's not buy bagels, we have bread.",remove
+" We can remove jam from the list, we have fruit.",remove
+" No need for energy drinks, we have coffee.",remove
+" Let's not buy canned fruit, we have fresh.",remove
+" We can remove tortilla chips from the list, we have veggies.",remove
+" No need for hummus, we have bean dip.",remove
+" Let's not buy almond milk, we have regular milk.",remove
+" We can remove canned beans from the list, we have dry beans.",remove
+" No need for cheese, we have tofu.",remove
+" Let's not buy eggs, we have tofu scrambles.",remove
+" We can remove pudding from the list, we have fruit.",remove
+" No need for waffles, we have pancakes.",remove
+" Let's not buy granola, we have muesli.",remove
+" We can remove margarine from the list, we have butter.",remove
+" No need for bacon, we have turkey bacon.",remove
+" Let's not buy pizza, we have sandwich ingredients.",remove
+" We can remove cheese puffs from the list, we have popcorn.",remove
+" No need for deli meat, we have leftovers.",remove
+" Scratch crackers, we have homemade bread.",remove
+" Let's not buy salad dressing, we have olive oil and vinegar.",remove
+" We can remove candy from the list, we have fruits.",remove
+" No need for pasta, we have quinoa.",remove
+" Let's not buy ice cream, we have sorbet.",remove
+" We can remove granulated sugar from the list, we have honey.",remove
+" No need for frozen dinners, we have homemade meals.",remove
+" Let's not buy canned vegetables, we have fresh ones.",remove
+" We can remove soda from the list, we have sparkling water.",remove
+" No need for mayonnaise, we have Greek yogurt.",remove
+" Let's not buy chips, we have popcorn.",remove
+" We can remove chocolate from the list, we have cocoa powder.",remove
+" No need for breadcrumbs, we have crushed crackers.",remove
+" Let's not buy alcohol, we have sparkling water.",remove
+" We can remove canned tomatoes from the list, we have fresh ones.",remove
+" No need for single-serve snacks, we have homemade options.",remove
+" Let's not buy flavored water, we have infused water.",remove
+" We can remove processed snacks from the list, we have nuts and seeds.",remove
+" No need for coffee creamer, we have milk.",remove
+" Let's not buy packaged desserts, we have homemade options.",remove
+" Exclude salad cream, we have mayonnaise.",remove
+" No need for chicken, we have turkey.",remove
+" Let's not buy apples, we have oranges.",remove
+" We can remove jam from the list, we have honey.",remove
+" No need for tea, we have coffee.",remove
+" Let's not buy yogurt, we have cream cheese.",remove
+" We can remove mustard from the list, we have ketchup.",remove
+" No need for rice, we have pasta.",remove
+" Let's not buy eggs, we have tofu.",remove
+" We can remove sparkling water from the list, we have juice.",remove
+" No need for hummus, we have tahini.",remove
+" Let's not buy tortillas, we have bread.",remove
+" We can remove grapes from the list, we have bananas.",remove
+" No need for tomato sauce, we have canned tomatoes.",remove
+" Let's not buy nuts, we have seeds.",remove
+" We can remove vanilla extract from the list, we have almond extract.",remove
+" No need for canned fruit, we have dried fruit.",remove
+" Let's not buy peanut butter, we have almond butter.",remove
+" We can remove dish soap from the list, we have hand soap.",remove
+" No need for toothpaste, we have baking soda.",remove
+" Scratch disposable cutlery, we have reusable ones.",remove
+" No need for canned soup, we have homemade.",remove
+" Let's not buy cooking spray, we have oil.",remove
+" We can remove artificial sweeteners from the list, we have sugar.",remove
+" No need for cottage cheese, we have ricotta.",remove
+" Let's not buy mayonnaise, we have aioli.",remove
+" We can remove almond milk from the list, we have oat milk.",remove
+" No need for crackers, we have flatbread.",remove
+" Let's not buy canned veggies, we have fresh.",remove
+" We can remove plastic bags, we have reusable ones.",remove
+" No need for cheese, we have vegan alternatives.",remove
+" Let's not buy chips, we have popcorn.",remove
+" We can remove ice cream from the list, we have sorbet.",remove
+" No need for breadcrumbs, we have crackers.",remove
+" Let's not buy butter, we have margarine.",remove
+" We can remove soda from the list, we have kombucha.",remove
+" No need for soy sauce, we have tamari.",remove
+" Let's not buy sour cream, we have crème fraîche.",remove
+" We can remove beef from the list, we have lamb.",remove
+" No need for cauliflower, we have broccoli.",remove
+" Let's not buy lemon juice, we have lime.",remove
+" We can remove frozen meals from the list, we have leftovers.",remove
+" No need for salt, we have garlic salt.",remove
+" Let's not buy pepper, we have cayenne.",remove
+" We can remove candy from the list, we have dark chocolate.",remove
+" No need for sports drinks, we have coconut water.",remove
+" Let's not buy energy bars, we have granola.",remove
+" We can remove paper towels from the list, we have cloths.",remove
+" No need for fabric softener, we have vinegar.",remove
+" Let's not buy detergent, we have soap nuts.",remove
+" Skip the salt, we have himalayan pink salt.",remove
+" No need for apples, we have oranges.",remove
+" Let's not buy pasta, we have zucchini noodles.",remove
+" We can remove hummus from the list, we have tzatziki.",remove
+" No need for batteries, we have rechargeables.",remove
+" Let's not buy chips, we have rice cakes.",remove
+" We can remove jam from the list, we have honey.",remove
+" No need for mustard, we have wasabi.",remove
+" Let's not buy chicken, we have turkey.",remove
+" We can remove eggs from the list, we have flaxseed.",remove
+" No need for tomatoes, we have tomato sauce.",remove
+" Let's not buy onions, we have shallots.",remove
+" We can remove garlic from the list, we have garlic powder.",remove
+" No need for vinegar, we have apple cider vinegar.",remove
+" Let's not buy milk, we have rice milk.",remove
+" We can remove cereal from the list, we have muesli.",remove
+" No need for yogurt, we have skyr.",remove
+" Let's not buy honey, we have agave syrup.",remove
+" We can remove tea from the list, we have matcha.",remove
+" No need for coffee, we have chicory.",remove
+" Let's not buy butter, we have ghee.",remove
+" We can remove potatoes from the list, we have sweet potatoes.",remove
+" No need for mushrooms, we have shiitake.",remove
+" Let's not buy bell peppers, we have jalapenos.",remove
+" We can remove rice from the list, we have quinoa.",remove
+" No need for olives, we have capers.",remove
+" Let's not buy corn, we have peas.",remove
+" We can remove bananas from the list, we have plantains.",remove
+" No need for broth, we have bouillon.",remove
+" Let's not buy peas, we have lentils.",remove
+" We can skip bread, there's tortilla.",remove
+" No need for salsa, we have pico de gallo.",remove
+" Let's not buy cookies, we have granola.",remove
+" We can remove cream from the list, we have cashew cream.",remove
+" No need for cheese, we have nutritional yeast.",remove
+" Let's not buy pasta, we have zucchini noodles.",remove
+" We can remove ice cream from the list, we have sorbet.",remove
+" No need for mayonnaise, we have avocado.",remove
+" Let's not buy popcorn, we have edamame.",remove
+" We can remove breadcrumbs from the list, we have almond meal.",remove
+" No need for canned soup, we have bone broth.",remove
+" Let's not buy crackers, we have rice cakes.",remove
+" We can remove hummus from the list, we have baba ganoush.",remove
+" No need for bread, we have lettuce wraps.",remove
+" Let's not buy soda, we have kombucha.",remove
+" Skip the milk, we have almond milk.",remove
+" No need for yogurt, we have coconut yogurt.",remove
+" Let's not buy eggs, we have flax eggs.",remove
+" We can remove sugar from the list, we have maple syrup.",remove
+" No need for chocolate, we have carob.",remove
+" Let's not buy honey, we have agave.",remove
+" We can remove coffee from the list, we have chicory root.",remove
+" No need for tea, we have rooibos.",remove
+" Let's not buy chips, we have kale chips.",remove
+" We can remove dip from the list, we have tzatziki.",remove
+" No need for mustard, we have wasabi.",remove
+" Let's not buy jam, we have fruit compote.",remove
+" We can remove juice from the list, we have smoothies.",remove
+" No need for wine, we have kombucha.",remove
+" Let's not buy beer, we have hard cider.",remove
+" We can remove vinegar from the list, we have apple cider vinegar.",remove
+" No need for flour, we have almond flour.",remove
+" Let's not buy cereal, we have muesli.",remove
+" We can remove oats from the list, we have quinoa flakes.",remove
+" No need for ice, we have frozen berries.",remove
+" Let's not buy cream cheese, we have cashew cheese.",remove
+" We can remove tomato sauce from the list, we have marinara.",remove
+" No need for beef, we have tempeh.",remove
+" Let's not buy chicken, we have seitan.",remove
+" We can remove pork from the list, we have jackfruit.",remove
+" No need for fish, we have hearts of palm.",remove
+" Let's not buy shrimp, we have tofu puffs.",remove
+" We can remove lettuce from the list, we have microgreens.",remove
+" Remove bread, bought it yesterday.",remove
+" Take off eggs, allergy concern.",remove
+" Scratch out milk, ran out of space.",remove
+" Delete oranges, already have enough.",remove
+" No need for apples, spouse doesn't like them.",remove
+" Cross off chips, saving calories.",remove
+" Omit lettuce, going to use leftovers.",remove
+" Eliminate cheese, forgot about diet.",remove
+" Forget about pasta, making a salad instead.",remove
+" Leave out crackers, opened pack at home.",remove
+" No need for cereal, stocked up recently.",remove
+" Remove canned beans, using dried ones.",remove
+" Skip baking ingredients, no plans to bake.",remove
+" Lose ground beef, opting for veggie burgers.",remove
+" Ditch soda, choosing water today.",remove
+" Forget about juice, making fresh smoothies.",remove
+" Cancel out ice cream, consuming yogurt.",remove
+" Exclude frozen meals, preparing homemade dishes.",remove
+" Erase chocolate, on a health kick.",remove
+" Neglect nuts, consumed at work.",remove
+" Ignore seeds, having too many.",remove
+" Cancel tortillas, having sandwich wraps.",remove
+" Exclude yogurt, using cottage cheese instead.",remove
+" Eliminate hummus, bought too much.",remove
+" Forget about ketchup, sufficient stock.",remove
+" Ditch mayo, making a vinaigrette.",remove
+" Disregard mustard, using horseradish.",remove
+" Overlook syrup, using honey.",remove
+" Neglect jam, spreading peanut butter.",remove
+" Ignore tea, drinking coffee.",remove
+" Remove bread, bought at bakery.",remove
+" Scratch apples, wife bought some.",remove
+" No need for milk, just restocked.",remove
+" Take off potatoes, already have enough.",remove
+" Remove onions, bought in bulk.",remove
+" Scrape carrots, got some from garden.",remove
+" No need for eggs, got them from neighbor.",remove
+" Strike chicken, just bought rotisserie.",remove
+" Rub out pasta, got a big bag yesterday.",remove
+" Delete juice, just found a hidden carton.",remove
+" Remove cheese, bought artisanal kind.",remove
+" Cross off yogurt, just opened a new one.",remove
+" Eliminate sauce, made homemade version.",remove
+" Take off snacks, kids took them to school.",remove
+" No need for cereal, ran out of milk.",remove
+" Strike cake, mom is baking one.",remove
+" Kill lettuce, went bad already.",remove
+" Delete soup, too hot for soup today.",remove
+" Rub out broth, freezer is full.",remove
+" No need for breadcrumbs, used crumbled crackers instead.",remove
+" Strike chips, found old bag in pantry.",remove
+" Eliminate soda, too much sugar.",remove
+" Take off crackers, husband ate them all.",remove
+" Cross off pretzels, too salty.",remove
+" No need for nuts, allergic kid coming over.",remove
+" Strike candy, dentist appointment tomorrow.",remove
+" Kill hummus, expiration date passed.",remove
+" Delete mayo, going low-carb.",remove
+" Rub out jam, trying no-sugar diet.",remove
+" No need for pickles, got a jar from grandma.",remove
+" Remove apples, bought at farmer's market.",remove
+" Take off bread, found it in the freezer.",remove
+" Scratch milk, it's in the fridge already.",remove
+" Delete eggs, just found an unopened carton.",remove
+" Remove pasta, enough from previous purchase.",remove
+" Cross out chicken, already defrosting for dinner.",remove
+" Strikethrough lettuce, got some from the neighbor's garden.",remove
+" Eliminate tomatoes, just preserved homegrown ones.",remove
+" Forget cheese, discovered a hidden block in the back of the fridge.",remove
+" Omit onions, got them from a friend's farm.",remove
+" Remove toothpaste, noticed we bought a spare one last week.",remove
+" Strike cereal, still have some in the pantry.",remove
+" Take out crackers, same as above.",remove
+" Cross off juice, brought it for the last picnic.",remove
+" Eliminate yogurt, found an opened container.",remove
+" Forget potatoes, stored a 10 lb bag recently.",remove
+" Strikethrough carrots, enough for couple more meals.",remove
+" Scratch oranges, too many from the tree in the backyard.",remove
+" Omit mayo, still have a half-full jar.",remove
+" Leave out cookies, just baked some a few days ago.",remove
+" Strikethrough soup, still have several cans.",remove
+" Take off pepperoni, found an unopened pack.",remove
+" Cross out broccoli, enough left from last time.",remove
+" Remove bananas, overripe and need to be used up.",remove
+" Eliminate garlic, got a fresh bulb yesterday.",remove
+" Forget parmesan, grated rest of it and left in the fridge.",remove
+" Strikethrough breadcrumbs, bought them just in case.",remove
+" Scratch canned beans, bought too many recently.",remove
+" Omit canned tomatoes, plenty in the pantry.",remove
+" Take out tea, bought a new box yesterday.",remove
+" Remove apples, bought at farmer's market.",remove
+" Take off bread, it's stale.",remove
+" Scratch eggs, found them cracked.",remove
+" Delete milk, ran out of fridge space.",remove
+" Cross out juice, allergic to pulp.",remove
+" Strike cereal, bought too much last week.",remove
+" Erase lettuce, going with sandwich wraps.",remove
+" Omit cheese, forgot lactose intolerant.",remove
+" Remove yogurt, expiration date passed.",remove
+" Cancel chips, opting for healthier snack.",remove
+" Eliminate cookies, on a diet.",remove
+" Lose crackers, found moldy.",remove
+" Forget canned soup, making homemade.",remove
+" Overlook frozen meals, preparing fresh.",remove
+" Neglect ice cream, too cold outside for it.",remove
+" Pass on soda, choosing water.",remove
+" Let go of condiments, have enough at home.",remove
+" Disregard baking goods, no time to bake.",remove
+" Excise fish, smells off.",remove
+" Evict chicken, sold out at store.",remove
+" Expel beef, ground meat not on sale.",remove
+" Expunge pork, allergic to pork.",remove
+" Eject lamb, not in mood for it.",remove
+" Expel shrimp, ran out of budget.",remove
+" Extract scallops, too expensive.",remove
+" Eliminate lobster, can't cook it properly.",remove
+" Overlook tofu, dislike the texture.",remove
+" Omit vegetables, got enough greens.",remove
+" Ignore fruits, too ripe already.",remove
+" Dismiss snacks, trying to eat clean.",remove
+" Remove bread, ordered from bakery.",remove
+" Scratch apples, found them spoiled.",remove
+" Take out potatoes, bought extra bags.",remove
+" Delete onions, enough on hand.",remove
+" Remove milk, it's already in the fridge.",remove
+" Scratch eggs, brought some recently.",remove
+" Take out cereals, already have in stock.",remove
+" Delete lettuce, bought for yesterday's salad.",remove
+" Remove carrots, enough from last shop.",remove
+" Scratch bananas, overripe already.",remove
+" Take out juice, got a case last week.",remove
+" Delete cheese, stored in the fridge.",remove
+" Remove chicken, frozen for later use.",remove
+" Scratch yogurt, purchased in bulk.",remove
+" Take out pasta, unused packets at home.",remove
+" Delete sauce, enough for meals this week.",remove
+" Remove soup, stored in the pantry.",remove
+" Scratch cookies, freshly baked yesterday.",remove
+" Take out crackers, saved some from last time.",remove
+" Delete chips, plenty for the weekend.",remove
+" Remove soda, received as a gift.",remove
+" Scratch tea, recently restocked.",remove
+" Take out coffee, enough for a fortnight.",remove
+" Delete frozen meals, saved for busy days.",remove
+" Remove fruits, just preserved some.",remove
+" Scratch veggies, pickled for later.",remove
+" Take out snacks, leftover from a party.",remove
+" Delete canned food, had too many recently.",remove
+" Remove baking ingredients, unused from a project.",remove
+" Scratch pet food, bought in bulk last month.",remove
+" Remove bread, bought it yesterday.",remove
+" Scratch apples, found them discounted elsewhere.",remove
+" Take off eggs, allergic to them.",remove
+" No more pasta, enough stock at home.",remove
+" Lose lettuce, wilting too fast.",remove
+" Forget butter, ran out of space.",remove
+" Erase juice, stomach was upset.",remove
+" Neglect cheese, lactose intolerant.",remove
+" Strike chicken, getting a rotisserie one.",remove
+" Eliminate milk, sold out here.",remove
+" Disregard oranges, moldy batch.",remove
+" Omit chips, consumed too many lately.",remove
+" Remove mayo, spoiled in the fridge.",remove
+" Ignore crackers, stale packet.",remove
+" Avoid beans, gastric issues.",remove
+" Pass on cereal, ran out of milk.",remove
+" Leave out carrots, forgot about the leftovers.",remove
+" Drop yogurt, expiration date is near.",remove
+" Cancel sauce, spilled some already.",remove
+" Abandon pickles, too salty for preference.",remove
+" Exclude jam, preserves in the pantry.",remove
+" Reject breadcrumbs, using panko instead.",remove
+" Evade garlic, overstocked.",remove
+" Sidestep tomatoes, bought canned ones.",remove
+" Overlook avocado, bruised and soft.",remove
+" Dismiss cigarettes, quitting habit.",remove
+" Discontinue alcohol, driving later.",remove
+" Withdraw pet food, forgot to check supply.",remove
+" Repudiate candies, dentist appointment soon.",remove
+" Discharge baking powder, using cream instead.",remove
+"remove apples, bought at store.",remove
+"take off bread, just found in pantry.",remove
+"delete eggs, remembered we have some.",remove
+"scratch milk, it's in fridge.",remove
+"cross out cheese, already purchased.",remove
+"erase pasta, have enough for the week.",remove
+"omit cereal, just bought extra.",remove
+"strike chicken, still have some frozen.",remove
+"exclude salt, have plenty on hand.",remove
+"forget pepper, just restocked.",remove
+"neglect butter, got it on sale.",remove
+"disregard juice, have ample supply.",remove
+"dont add potatoes, bought too many.",remove
+"avoid onions, still have some left.",remove
+"do not include garlic, have a full bulb.",remove
+"pass on carrots, enough for the week.",remove
+"skip celery, just used some.",remove
+"neglect tomatoes, have ripe ones.",remove
+"disregard lettuce, got a fresh head.",remove
+"exclude cucumbers, enough for salad.",remove
+"leave out pickles, stocked up recently.",remove
+"bypass olives, have a jar open.",remove
+"avoid beans, just bought canned.",remove
+"do not consider corn, have a surplus.",remove
+"ignore peas, enough for dinner.",remove
+"skip rice, just cooked some.",remove
+"leave out noodles, already cooked.",remove
+"disregard soup, enough cans.",remove
+"avoid sauce, plenty on hand.",remove
+"neglect sweets, enough treats.",remove
+" Remove apples, bought at farmer's market.",remove
+" Take off bread, found it stale.",remove
+" Scratch chicken, realized we're vegan.",remove
+" Delete eggs, ran out of room.",remove
+" Cross out milk, allergic to dairy.",remove
+" Eliminate potatoes, bought at lunch.",remove
+" Forget carrots, got them in CSA box.",remove
+" Omit avocados, too ripe.",remove
+" Remove bananas, brown spots.",remove
+" Cancel onions, too much in pantry.",remove
+" Strike spinach, wilting.",remove
+" Ignore salmon, just ate sushi.",remove
+" Overlook tomatoes, got some from neighbor.",remove
+" Disregard pasta, had lasagna for dinner.",remove
+" Neglect cheese, vegetarian this week.",remove
+" Erase soup, stored cans from before.",remove
+" Avoid tortillas, no more space.",remove
+" Dispose of yogurt, past expiration.",remove
+ Juice remaining oranges.,remove
+ Blend leftover berries.,remove
+ Freeze aging veggies.,remove
+ Candied excess ginger.,remove
+ Chop leftover herbs.,remove
+ Grind unused spices.,remove
+ Donate unneeded grains.,remove
+ Cook surplus meat.,remove
+ Dry outdated herbs.,remove
+ Decant unused oils.,remove
+ Share spare seasonings.,remove
+ Gift duplicate items.,remove
+" Remove eggs, bought them already.",remove
+" Scratch milk, ran out of fridge space.",remove
+" Take off bread, went stale.",remove
+" Delete apple juice, found it's sour.",remove
+" Strike through carrots, kiddo won't eat.",remove
+" Cross out cookies, overstocked on sweets.",remove
+" Eliminate cereal, just expired.",remove
+" Omit onions, causing allergies.",remove
+" Forget cheese, softening too fast.",remove
+" Neglect chips, family's snack limit reached.",remove
+" Ignore cookies, none left in stock.",remove
+" Pass on pasta, have enough.",remove
+" Skip soda, quitting sugar.",remove
+" No need for bananas, got them at work.",remove
+" Exclude chips, allergic issues.",remove
+" Avoid yogurt, about to spoil.",remove
+" Deny ice cream, calories concern.",remove
+" Reject rice, prepping alternative grains.",remove
+" Overlook crackers, ran out of spreads.",remove
+" Cancel chicken, on meat-free week.",remove
+" Disregard jam, ran out of bread.",remove
+" Sidestep soup, overstocked.",remove
+" Postpone pears, overbought fresh produce.",remove
+" Ignore ice, just kept frozen goods.",remove
+" Dismiss hot dogs, using lean protein.",remove
+" Overlook olives, got enough pickles.",remove
+" Neglect nuts, salt overdose danger.",remove
+" Exclude energy drinks, on health kick.",remove
+" Leave out lettuce, greens wilting quick.",remove
+" Forget frozen meals, prepping homemade.",remove
+" Remove apples, bought them already.",remove
+" Take out bread, already in the pantry.",remove
+" Scratch chicken, just ordered takeout.",remove
+" Erase milk, it'sexpired.",remove
+" Forget potatoes, we have enough.",remove
+" Delete onions, ran out of space.",remove
+" Cross out carrots, not needed anymore.",remove
+" Strike out beef, changed to fish.",remove
+" Omit cheese, allergic to dairy.",remove
+" Exclude pasta, on a low-carb diet.",remove
+" Eliminate eggs, left from last week.",remove
+" Ignore cereal, going gluten-free.",remove
+" Pass on lettuce, wilting too fast.",remove
+" Neglect yogurt, skipping dairy today.",remove
+" Forgo cookies, watching calorie intake.",remove
+" Leave out chips, trying to eat healthy.",remove
+" Remove canned soup, too much sodium.",remove
+" Disregard crackers, ran out of dip.",remove
+" Avoid frozen meals, making homemade dinner.",remove
+" Overlook ice cream, no room in the freezer.",remove
+" Dismiss soda, cutting back on sugar.",remove
+" Overlook juice, making fresh lemonade.",remove
+" Remove canned beans, using dried ones instead.",remove
+" Discard frozen berries, taking probiotics.",remove
+" Don't add peanut butter, stock already full.",remove
+" No jelly, running low on bread.",remove
+" No salad dressing, using olive oil.",remove
+" Without tomato sauce, creating homemade version.",remove
+" Remove bacon, saving money this month.",remove
+" No mayo, using Greek yogurt.",remove
+" Extra bread, we don't need more.",remove
+ Do we really need three gallons of milk?,remove
+ We already have enough pasta.,remove
+ Let's skip the cookies this time.,remove
+ No need for two boxes of cereal.,remove
+ We don't need more toothpaste now.,remove
+ Remove extra canned beans.,remove
+ Only one big bag of rice is enough.,remove
+ Let's take out two jars of pasta sauce.,remove
+ We've got plenty of coffee.,remove
+ Do we need another bottle of shampoo?,remove
+ Not enough space for more soda.,remove
+ The chocolates are not necessary.,remove
+ Already have two loaves of bread.,remove
+ Too much frozen pizza.,remove
+ 5-pound chicken is too much.,remove
+ Let's take out two cans of soup.,remove
+ We can't fit more juice boxes.,remove
+ Spaghetti and lasagna twice!,remove
+ No extra yogurt.,remove
+ Four bags of salad and more?,remove
+ Carrots come in larger bags.,remove
+ Eight pieces of fruit?,remove
+ Can't bring more cheese.,remove
+ Six bags of goldfish?,remove
+ Two containers of hummus?,remove
+ Apples already in the cart.,remove
+ Enough butter for now.,remove
+ One bag of chips is enough.,remove
+ Crackers left from yesterday.,remove
+ Extra milk cans not needed.,remove
+ Eliminate duplicate pasta boxes.,remove
+" Unnecessary bread loaves, remove two.",remove
+" Too many apples, reduce by half.",remove
+" Excessive orange juice, take out one bottle.",remove
+" Unrequired yogurts, discard three.",remove
+" Overstocked on cereals, remove one box.",remove
+" Excess cheese, let's delete two blocks.",remove
+" Unneeded crackers, lose one pack.",remove
+" Superfluous soups, get rid of two cans.",remove
+" Redundant eggs, lose half a dozen.",remove
+" Too many bagels, take away four.",remove
+" Unneeded tortillas, subtract two packs.",remove
+" Extraneous lettuce, let's remove one head.",remove
+" Overabundant tomatoes, trim by three.",remove
+" Unneeded onions, lose one kilo.",remove
+" Superfluous peppers, remove two.",remove
+" Redundant cucumbers, reduce by half.",remove
+" Too many carrots, take away three.",remove
+" Unneeded broccoli, subtract one bunch.",remove
+" Excessive potatoes, let's remove two bags.",remove
+" Unrequired rice, delete one bag.",remove
+" Superfluous noodles, get rid of two packs.",remove
+" Redundant canned beans, lose one can.",remove
+" Too many frozen meals, take away three.",remove
+" Unneeded ice cream, subtract one pint.",remove
+" Extraneous cookies, let's remove one pack.",remove
+" Overabundant chocolates, trim by three.",remove
+" Unneeded candies, lose one bag.",remove
+" Superfluous snacks, get rid of two.",remove
+ Overripe bananas should be removed.,remove
+ Stale bread needs to be taken off.,remove
+ Expired milk should be discarded.,remove
+ Crushed cereal box can be removed.,remove
+ Moldy cheese should not be included.,remove
+ Wilting herbs can be removed.,remove
+ Bruised apples should be eliminated.,remove
+ Soggy vegetables need to be discarded.,remove
+ Frozen meat with freezer burn should be taken off.,remove
+ Dented cans should not be included.,remove
+ Leaked carton of juice can be removed.,remove
+ Half-eaten cookies should be discarded.,remove
+ Mushy berries should not be included.,remove
+ Opened package of crackers can be removed.,remove
+ Discolored lettuce should be eliminated.,remove
+ Rotten potatoes need to be discarded.,remove
+ Thawed shrimp should not be included.,remove
+ Torn bag of chips can be removed.,remove
+ Broken jar of sauce should be taken off.,remove
+ Separated egg whites should not be included.,remove
+ Spilled bag of sugar can be removed.,remove
+ Empty package of pasta can be discarded.,remove
+ Used tea bags should not be included.,remove
+ Cracked eggs need to be discarded.,remove
+ Flimsy produce bag should be taken off.,remove
+ Lost lid for yogurt should not be included.,remove
+ Rancid butter should be eliminated.,remove
+ Missing ingredients list can be removed.,remove
+ Improperly sealed container should not be included.,remove
+ Unlabeled item can be discarded.,remove
+ Overripe bananas should be removed.,remove
+ Stale bread can be taken off the list.,remove
+ Expired milk needs to be discarded.,remove
+ Limp vegetables should be removed.,remove
+ Moldy fruit can be deleted.,remove
+ Crushed crackers should be crossed out.,remove
+ Fuzzy cheese should be excluded.,remove
+ Sour cream that's separated should go.,remove
+ Wilting herbs should be deleted.,remove
+ Dented cans should be removed.,remove
+ Broken eggs should be discarded.,remove
+ Leaking bottles should be excluded.,remove
+ Rotten meat should be crossed out.,remove
+ Discolored fish should be removed.,remove
+ Freezer-burned items can be taken off.,remove
+ Outdated boxes should be discarded.,remove
+ Crushed chips should be eliminated.,remove
+ Soggy cereal should be removed.,remove
+ Mushy berries should be deleted.,remove
+ Sticky jars should be excluded.,remove
+ Rancid nuts should be crossed out.,remove
+ Opened packets should be removed.,remove
+ Partially eaten bars should be discarded.,remove
+ Wilted flowers should be excluded.,remove
+ Overpriced items can be taken off.,remove
+ Duplicate entries should be removed.,remove
+ Unneeded ingredients should be deleted.,remove
+ Unhealthy snacks should be crossed out.,remove
+ Unripe avocados should be excluded.,remove
+ Low-quality products should be removed.,remove
+ Overripe bananas don't need to be on the list.,remove
+ Spilled cereal means fewer boxes are needed.,remove
+ Expired milk should be removed from the list.,remove
+ Duplicate yogurt entries can be eliminated.,remove
+ Unwanted candy can be struck from the list.,remove
+ No need for extra toilet paper this time.,remove
+ Limited fridge space means less dairy products.,remove
+ Forgotten sale items can be deleted.,remove
+ Allergic reactions mean cutting certain foods.,remove
+" Ate leftovers, so no more meals needed.",remove
+ Change in plans means no picnic items.,remove
+" Kids don't like that snack, so remove it.",remove
+" Bought new sauce, so scratch the old one.",remove
+ Realized we have enough pasta at home.,remove
+" No soda needed, we're going alcohol-free.",remove
+ Pet allergy means no pet food or treats.,remove
+" Running out of storage, so less canned goods.",remove
+" Travel plans change menu, so delete those items.",remove
+" Bought a big bag, no small ones needed.",remove
+" Vegan guest, so no meat or dairy products.",remove
+" Lost the appetite, so less food items.",remove
+" Finished the baking, so no more flour.",remove
+" Visitor cancels, so trim the grocery list.",remove
+" Lost power, so skip frozen items.",remove
+" Broke the dish, so no more breakables.",remove
+ Dietary change means removing gluten.,remove
+ Realized we have enough dish soap at home.,remove
+" Finished the laundry, so no more detergent.",remove
+ Leftover ingredients in the pantry.,remove
+" Decided to eat out, so no homemade meals needed.",remove
+ Extra bread isn't needed.,remove
+ Eliminate the extra bag of rice.,remove
+ We don't need three bottles of ketchup.,remove
+" Too many apples, reduce to a dozen.",remove
+ No need for two bulbs of garlic.,remove
+ Delete extra pack of pasta.,remove
+ We have enough canned beans.,remove
+ Not enough space for more cereal.,remove
+ Reduce the number of onions.,remove
+ Let's skip the extra carton of eggs.,remove
+ We're out of room for more milk.,remove
+ We don't need another loaf of bread.,remove
+" Too much cheese, let's remove some.",remove
+ We have plenty of frozen veggies.,remove
+ Skip the extra box of crackers.,remove
+ We don't need two types of juice.,remove
+ Cut back on the number of yogurts.,remove
+ We have enough snacks already.,remove
+ No need for more cooking oil.,remove
+ Let's not buy too many chips.,remove
+ We have plenty of soda.,remove
+ Delete extra chicken from the list.,remove
+ We have enough toothpaste.,remove
+ Not enough space for more candy.,remove
+ Let's skip the extra bag of flour.,remove
+ We have enough napkins.,remove
+ Let's not buy too many cookies.,remove
+ We don't need another bottle of water.,remove
+ We have enough lettuce.,remove
+ Let's not buy too many bananas.,remove
+ Extra bread not needed.,remove
+ Remove unnecessary snacks.,remove
+" Too much dairy, cut back.",remove
+ Eliminate duplicate canned goods.,remove
+ Reduce fruit quantity.,remove
+ No need for extra bottled water.,remove
+ Decrease meat portions.,remove
+" Less chocolate, please.",remove
+ Do we really need more pasta?,remove
+ Cut down on chips.,remove
+ Remove excess baking supplies.,remove
+" Too many frozen meals, delete some.",remove
+ Reduce juice purchase.,remove
+" Less salt, no extra soy sauce.",remove
+ Do we need more towels?,remove
+ Cut back on coffee.,remove
+ No need for additional cleaning supplies.,remove
+ Delete extra baked goods.,remove
+ Not so many sodas.,remove
+ Fewer candies.,remove
+ Less ice cream.,remove
+ Reduce egg cartons.,remove
+ Do we need more bread crumbs?,remove
+ Less crackers.,remove
+ Delete extra mustard.,remove
+ Decrease tortilla quantity.,remove
+ Fewer cookies.,remove
+ Less cereals.,remove
+ Reduce amount of cheese.,remove
+ Do we need more broth?,remove
+ Overripe bananas should be removed.,remove
+ Stale bread can be taken off.,remove
+ Expired milk needs to go.,remove
+ Damaged fruit should be discarded.,remove
+ Moldy vegetables need to be removed.,remove
+ Crushed chips can be eliminated.,remove
+ Leftover meat past its date should be discarded.,remove
+ Sour cream with separated layers should be removed.,remove
+ Rotten cheese can be taken off.,remove
+ Wilting herbs should be discarded.,remove
+ Broken eggs should be removed.,remove
+ Half-eaten candy can be eliminated.,remove
+ Soggy crackers need to be removed.,remove
+ Leaking juice containers should be discarded.,remove
+ Dented cans should be taken off.,remove
+ Mushy berries can be eliminated.,remove
+ Stale nuts need to be removed.,remove
+ Rancid butter should be discarded.,remove
+ Cloudy honey can be taken off.,remove
+ Discolored tea bags should be removed.,remove
+ Separating yogurt can be eliminated.,remove
+ Bloomed rice should be removed.,remove
+ Expired condiments need to be discarded.,remove
+ Opened oil containers should be taken off.,remove
+ Freezer-burned meat can be eliminated.,remove
+ Ice cream with crystals should be removed.,remove
+ Frozen fruit with freezer burn need to be discarded.,remove
+ Spilled spices should be taken off.,remove
+ Cracked jars should be removed.,remove
+ Dusty canned goods can be eliminated.,remove
+ Extra bread not needed.,remove
+ Can remove extra milk.,remove
+ Unnecessary third jar of pasta sauce.,remove
+ Extra pack of hot dogs - enough already.,remove
+ Do we need so many cookies?,remove
+ Too much soda - cut back.,remove
+ Excessive amount of chips - reconsider.,remove
+ Unneeded extra box of cereal.,remove
+ Can skip the extra ice cream tub.,remove
+ Not another bag of snacks - delete.,remove
+ Reduce quantity of frozen meals.,remove
+ Do not need that much cheese.,remove
+ Decrease canned vegetables in cart.,remove
+ Avoid extra fruit juice this time.,remove
+" Too many bakery items, remove some.",remove
+ Can we strike the pre-made salads?,remove
+ Delete the extra bag of flour.,remove
+ Spare the extra sugar purchase.,remove
+ Minimize amount of condiments.,remove
+ Decrease amount of canned soups.,remove
+ Eliminate the second loaf of bread.,remove
+ No need for third container of yogurt.,remove
+ Skip buying extra tea bags.,remove
+ Less salad dressing options - stick to one.,remove
+ Cut back meat for this list.,remove
+ Reduce number of snack packs.,remove
+ Fewer candy bars - choose healthier options.,remove
+ Limit pet treat purchase.,remove
+ No need for extra cleaning supplies.,remove
+ Cut down ice pops - opt for fruit.,remove
+ Extra bread not needed.,remove
+ Can skip the cereal this time.,remove
+ Do we really need more pasta?,remove
+ Too much rice already.,remove
+ Let's pass on the snacks.,remove
+ No need for extra juice.,remove
+ We have enough canned goods.,remove
+ Spare the soda.,remove
+ Forget the frozen meals.,remove
+ We don't need more bread.,remove
+ Enough chips already.,remove
+ No more cookies.,remove
+ Spare the crackers.,remove
+ We have enough soup.,remove
+ Skip the salad dressing.,remove
+ No need for more cheese.,remove
+ We have enough eggs.,remove
+ Enough milk already.,remove
+ Pass on the yogurt.,remove
+ We have enough butter.,remove
+ Spare the margarine.,remove
+ We have enough veggies.,remove
+ No more fruit.,remove
+ Enough meat.,remove
+ Skip the seafood.,remove
+ No need for more poultry.,remove
+ Enough baking goods.,remove
+ Spare the canned meat.,remove
+ We have enough pasta sauce.,remove
+ No more breadcrumbs.,remove
+ Extra bread not needed.,remove
+ Eliminate the extra milk.,remove
+" Too many apples, reduce quantity.",remove
+" Unnecessary chips, take out.",remove
+ Do we need three bags of rice?,remove
+ Reduce two cans of beans.,remove
+ Can we skip the soda today?,remove
+ No need for extra snacks.,remove
+ Delete the duplicate pasta.,remove
+" Unnecessary sauce, remove.",remove
+ No need for extra butter.,remove
+ Can we minimize the cheese?,remove
+ Do we really need more cereal?,remove
+ Extra vegetables to omit.,remove
+ Reduce the number of yogurts.,remove
+ No need for extra fruit.,remove
+" Too many eggs, decrease amount.",remove
+ Let's not get too much meat.,remove
+ Minimize the amount of juice.,remove
+ No need for extra crackers.,remove
+ Reduce the number of nuts.,remove
+ Can we skip the frozen meals?,remove
+ Delete the duplicate canned goods.,remove
+ Extra baking ingredients to remove.,remove
+ No need for extra breadcrumbs.,remove
+ Can we minimize the amount of sugar?,remove
+ Decrease the quantity of flour.,remove
+ Do we need more condiments?,remove
+ Extra baking supplies to omit.,remove
+ Can we skip the pastries this time?,remove
+" Extra loaf of bread, we only need one.",remove
+ Do we really need three gallons of milk?,remove
+" We don't need two bags of flour, one is enough.",remove
+" Too many apples, reduce to a dozen.",remove
+" We already have enough cereal, remove from list.",remove
+ Let's skip the extra bottle of oil.,remove
+ We don't need two packs of yeast.,remove
+ Remove the extra bag of rice.,remove
+" We have enough pasta, delete from list.",remove
+" Too many onions, reduce to four.",remove
+ We don't need three heads of lettuce.,remove
+ Reduce canned beans to two cans.,remove
+" We have enough tomato sauce, remove from list.",remove
+ Skip the extra bag of frozen vegetables.,remove
+ We don't need two loaves of bread.,remove
+ Remove the extra carton of eggs.,remove
+" We have enough chicken, delete from list.",remove
+ Skip the extra bag of potatoes.,remove
+ We don't need two containers of yogurt.,remove
+ Reduce sliced cheese to one pack.,remove
+" We have enough butter, delete from list.",remove
+ Skip the extra box of crackers.,remove
+ Remove the extra bag of nuts.,remove
+ We don't need two bottles of salad dressing.,remove
+ Reduce granola bars to one box.,remove
+" We have enough fruit juice, delete from list.",remove
+ Skip the extra bag of marshmallows.,remove
+ Remove the extra bottle of wine.,remove
+ We don't need two packs of cookies.,remove
+ Reduce ice cream to one gallon.,remove
+ Cross off the wilting lettuce.,remove
+ No need for two bags of rice.,remove
+ Expired yogurt can be removed.,remove
+" Too much salt, reduce to one.",remove
+ Delete the discontinued soup brand.,remove
+" We have enough pasta, remove extra.",remove
+ Unnecessary second pack of bread.,remove
+ Remove rotten tomatoes.,remove
+ Spoiled milk should go.,remove
+ Duplicate can of beans.,remove
+ Unwanted bouquet of flowers.,remove
+ Excessive number of onions.,remove
+ Overstock of tea bags.,remove
+ Unneeded jar of olives.,remove
+ Leftover snacks from last time.,remove
+ Forget the spoiled meat.,remove
+" Spilled bag of chips, discard.",remove
+" Broken egg, toss it out.",remove
+" Moldy cheese, get rid of it.",remove
+" Stale crackers, exclude.",remove
+" Unopened can of corn, it's old.",remove
+ Expired pack of cookies.,remove
+" Unused spice, throw away.",remove
+ Old bottle of juice.,remove
+ Remove wilted herbs.,remove
+ Limit number of candies.,remove
+ Unopened canned goods from ages ago.,remove
+ Unplanned purchase of alcohol.,remove
+ Extras of paper towels.,remove
+ Excessive amounts of toothpaste.,remove
+ Scratch expired milk off the list.,remove
+" No need for two loaves of bread, change to one.",remove
+" Remove extra pack of butter, one is enough.",remove
+ Do we really need three boxes of cereal?,remove
+ Take off the damaged can of vegetables.,remove
+ Eliminate the moldy cheese from the list.,remove
+" Too many apples, reduce to a dozen.",remove
+ Decrease the number of oranges to six.,remove
+" We don't need two bottles of ketchup, change to one.",remove
+ Strike out the last minute snack addition.,remove
+ Cross off the overpriced chips.,remove
+" No need for another bag of rice, we already have one.",remove
+ Remove the out of season fruit from the list.,remove
+" Decrease the amount of pasta, we have plenty at home.",remove
+" We don't need anymore soda, so take it off.",remove
+ Strike out the expensive cut of meat.,remove
+ Cross off the unnecessary junk food.,remove
+ Decrease the number of eggs to a dozen.,remove
+" We have enough toothpaste, so remove it from the list.",remove
+ Strike out the repetitive item.,remove
+ Take off the item we already have in the pantry.,remove
+" No need for another bottle of dish soap, one is enough.",remove
+ Remove the unnecessary spending.,remove
+" Decrease the amount of baking ingredients, unless needed.",remove
+" We don't need more cleaning supplies, cross it off.",remove
+ Strike out the unhealthy snack option.,remove
+ Cross off the duplicate item.,remove
+" Decrease the number of frozen meals, unless necessary.",remove
+" We don't need more coffee, take it off.",remove
+ Strike out the impulse buy.,remove
+ Overripe bananas don't need to be on the list.,remove
+ Spilled milk means no more milk on the list.,remove
+ Stale bread should be removed from the list.,remove
+ Expired yogurt needs to be deleted from the list.,remove
+ Rotten vegetables are not needed on the list.,remove
+ Moldy cheese should be removed from the list.,remove
+ Cracked eggs don't belong on the list.,remove
+ Browned avocados should be taken off the list.,remove
+ Wilted herbs can be removed from the list.,remove
+ Soggy lettuce doesn't need to be on the list.,remove
+ Broken cookies can be deleted from the list.,remove
+ Frozen freezer-burned meat should be removed.,remove
+ Burnt toast shouldn't be on the list.,remove
+ Leftover rice can be taken off the list.,remove
+ Stale chips don't belong on the list.,remove
+ Flat soda should be removed from the list.,remove
+ Outdated canned goods can be deleted.,remove
+ Misshapen fruits should be taken off the list.,remove
+ Extra packages can be removed from the list.,remove
+ Duplicate items don't need to be on the list.,remove
+ Unwanted gifts can be deleted from the list.,remove
+ Excess bulk purchases should be removed.,remove
+ Impulse buys don't belong on the list.,remove
+ Unhealthy snacks can be taken off the list.,remove
+ Unneeded ingredients don't need to be on the list.,remove
+ Overpriced items should be deleted from the list.,remove
+ Seasonal items can be removed from the list.,remove
+ Unopened sale items can be taken off the list.,remove
+ Unused coupons don't need to be on the list.,remove
+ Expired vouchers should be deleted from the list.,remove
+ Overripe bananas should be removed.,remove
+ Stale bread can be taken off the list.,remove
+ No need for expired milk.,remove
+ Remove spoiled meat from list.,remove
+ Old yogurt doesn't need to be bought.,remove
+ Expired cheese should be crossed off.,remove
+ Rotten fruit doesn't belong on the list.,remove
+ Wilted vegetables should be removed.,remove
+ Discarded leftovers are not necessary.,remove
+ Moldy jam can be scrapped.,remove
+ Cracked eggs have to go.,remove
+ Bruised apples should be removed.,remove
+ Leaky carton of juice should be removed.,remove
+ Stained package of rice should be discarded.,remove
+ Dented can of beans can be omitted.,remove
+ Half-eaten bag of chips shouldn't be bought.,remove
+ Broken package of crackers should be removed.,remove
+ Mushy grapes don't need to be included.,remove
+ Limp carrots should be taken off.,remove
+ Burnt popcorn doesn't belong on the list.,remove
+ Frozen meat that's thawed shouldn't be bought.,remove
+ Soggy cereal should be removed.,remove
+ Separated mayonnaise should be discarded.,remove
+ Runny peanut butter can be scrapped.,remove
+ Discolored flour can be omitted.,remove
+ Rancid butter shouldn't be bought.,remove
+ Moldy tea bags can be taken off.,remove
+ Stale coffee grounds should be removed.,remove
+ Expired spices are not necessary.,remove
+ Crushed cookies don't belong on the list.,remove
+ Overripe bananas don't need to be on the list.,remove
+ Spilled milk means no more milk on the list.,remove
+ Expired yogurt should be removed.,remove
+ Stale bread is not worth buying.,remove
+ Rotten fruits need to be discarded.,remove
+ Wilting vegetables should be removed.,remove
+ Moldy cheese should be crossed off.,remove
+ Cracked eggs don't make the cut.,remove
+ Burnt popcorn kernels are a no-go.,remove
+ Sour cream that's passed its date should be removed.,remove
+ Stale nuts can be omitted.,remove
+ Mushy berries have to go.,remove
+ Rancid butter should be scrapped.,remove
+ Limp pasta isn't worth buying.,remove
+ Soggy cereal can be skipped.,remove
+ Flimsy tortillas aren't worth it.,remove
+ Discolored meat should be avoided.,remove
+ Fishy seafood is a no-no.,remove
+ Freezer-burned items should be removed.,remove
+ Outdated canned goods can be eliminated.,remove
+ Broken crackers aren't necessary.,remove
+ Mushy potatoes should be tossed.,remove
+ Wilted herbs can be skipped.,remove
+ Old spices lack flavor.,remove
+ Crushed chips aren't appealing.,remove
+ Leaky juice containers should be discarded.,remove
+ Dented cans may be unsafe.,remove
+ Spilled condiments don't need to be replaced.,remove
+ Mold on jelly means it's gone bad.,remove
+ Half-eaten snacks can be removed.,remove
+ Remove extra loaf of bread from the list.,remove
+ We don't need three gallons of milk.,remove
+ Take off the excess cereal boxes.,remove
+ No need for two pineapple tops.,remove
+ Delete extra avocados from the list.,remove
+" We have plenty of toothpaste, scratch it off.",remove
+" Too many apples, reduce the number.",remove
+ Remove extra bags of chips.,remove
+ We don't need that much pasta.,remove
+ Take off extra granola bars.,remove
+ No need for two bundles of kale.,remove
+ Delete extra onions from the list.,remove
+" Too many bananas, cut down the quantity.",remove
+ Remove extra yogurt containers.,remove
+" We have enough soup, scratch it off.",remove
+" Too much cheese, reduce the amount.",remove
+ Remove extra rice bags.,remove
+ We don't need that many crackers.,remove
+ Take off extra tomatoes.,remove
+ No need for two bottles of salad dressing.,remove
+ Delete extra bread crumbs from the list.,remove
+" Too many carrots, cut down the quantity.",remove
+ Remove extra cans of beans.,remove
+" We have enough eggs, scratch it off.",remove
+" Too much ice cream, reduce the amount.",remove
+ Remove extra containers of juice.,remove
+ We don't need that many cookies.,remove
+ Take off extra cucumbers.,remove
+ No need for two jars of pickles.,remove
+ Delete extra tortillas from the list.,remove
+" Extra bread, we already have enough.",remove
+ No need for two bottles of ketchup.,remove
+ We can skip the soda this time.,remove
+ Remove the unwanted junk food.,remove
+ Spices shelf is already full.,remove
+ We don't need more hand soap right now.,remove
+ Let's not buy two loaves of bread.,remove
+ There's no need for extra toothpaste.,remove
+ Remove the unnecessary candies.,remove
+ We have enough pasta for now.,remove
+ Do we really need more chocolate?,remove
+ It's better to skip the chips.,remove
+ Let's not buy too many canned beans.,remove
+ We can pass on the extra cereal.,remove
+ No need for another bottle of dish soap.,remove
+ Let's remove the duplicate baking ingredients.,remove
+ Enough ice cream for this time.,remove
+ Remove the repeated canned vegetables.,remove
+ No need for extra garlic.,remove
+ We can skip the extra napkins.,remove
+ Let's remove the unnecessary cookies.,remove
+ We have enough shampoo for now.,remove
+ Don't forget to delete the extra coffee.,remove
+ Enough tea for the moment.,remove
+ Let's not buy so many cleaning supplies.,remove
+ We don't need more towels.,remove
+ It's best to avoid the extra crackers.,remove
+ Let's remove the repeated snacks.,remove
+ Enough frozen meals for the week.,remove
+ Don't forget to delete the repeated bread!,remove
+" Extra bread, we already have enough.",remove
+ Do we really need three bags of rice?,remove
+ Expired yogurt shouldn't be on the list.,remove
+ We don't need to buy more soap yet.,remove
+ Extra milk is unnecessary.,remove
+ We shouldn't get more pasta.,remove
+ We have enough salt for now.,remove
+ Spices can be taken off the list.,remove
+ Extra butter isn't needed.,remove
+ No need for more breadcrumbs.,remove
+" Remove canned tomatoes, we have sufficient.",remove
+ Let's not buy more toothpaste yet.,remove
+ We don't need another box of cereal.,remove
+" No more juice, please.",remove
+ Extra snacks can be removed.,remove
+ Let's not purchase any more soda.,remove
+ Extra flour isn't needed.,remove
+ We have enough sugar for baking.,remove
+ Extra eggs can be removed.,remove
+ No need for more oil.,remove
+ We have enough baking powder.,remove
+ Extra broth can be taken off.,remove
+ No need for more cheese.,remove
+ Extra crackers aren't necessary.,remove
+ We have sufficient mustard.,remove
+ Extra ketchup can be removed.,remove
+" No more mayonnaise, please.",remove
+ Extra relish isn't needed.,remove
+ We don't need more vinegar.,remove
+ Extra chocolate chips can be taken off.,remove
+ Remove the expired milk from the list.,remove
+ The overripe bananas don't need to be on the list.,remove
+" We already have enough pasta, cross it off.",remove
+ Take off the broken crackers from the list.,remove
+ The bruised apples should be deleted.,remove
+" We don't need more toothpaste, remove it.",remove
+ Cross off the moldy cheese from the list.,remove
+ Take out the almost empty bottle of oil.,remove
+" The torn bag of chips isn't needed, remove it.",remove
+" We have plenty of bread, take it off.",remove
+ Cross off the crushed cereal box.,remove
+ Remove the outdated yogurt from the list.,remove
+ Take off the almost empty carton of eggs.,remove
+ The wilted lettuce should be deleted.,remove
+" We don't need another bottle of water, remove it.",remove
+ Cross off the soggy granola bars.,remove
+ Remove the dented can of soup from the list.,remove
+ Take off the nearly expired loaf of bread.,remove
+" The leaky bottle of juice isn't needed, remove it.",remove
+" We have enough napkins, take it off.",remove
+ Cross off the crushed pack of cookies.,remove
+ Remove the outdated can of vegetables from the list.,remove
+ Take off the almost empty jar of mayonnaise.,remove
+ The brown avocado should be deleted.,remove
+" We don't need another sponge, remove it.",remove
+ Cross off the moldy slice of cake.,remove
+ Remove the ripped bag of popcorn from the list.,remove
+ Take off the expired can of beans.,remove
+" The crumbled package of frozen vegetables isn't needed, remove it.",remove
+" We have enough mustard, take it off.",remove
+" Extra bread, we have enough at home.",remove
+ No need for three bags of potatoes.,remove
+"  scrapped canned beans, we prefer dry beans.",remove
+" Too many avocados, remove two.",remove
+" we already have toothpaste, cross it off.",remove
+ Remove duplicate sauce brand from list.,remove
+ Don't forget to delete forgotten vegan butter.,remove
+" Get only one pre-made salad, originally planned two.",remove
+" Remove non-dairy milk, we switched to regular milk",remove
+" Found onion powder at home, delete from the shopping list.",remove
+ Remove extra teas from the grocery list.,remove
+" Spotted extra canned tuna while inventorying, best to take it off",remove
+ Extra pasta sauce needn't be on the list.,remove
+" Extra crackers we don't consume, get fewer for you.",remove
+" Too many bell peppers planned to bring home, least one can leave.",remove
+ Dupes: keep a head of garlic off the list.,remove
+" Put down pickle pack in list search, don't need that exact type, scratch it.",remove
+" Suggest snack changing midweek, remove the originally stated one.",remove
+ No paper ware needed for our visitors.,remove
+ Del stricken from chips brand thought first,remove
+" Two ketchups stated, not typical, reduce amount stated want.",remove
+" Old olives will go unspread, take half jar decrease of list's stated quantity",remove
+" Uunec baked cheese from diet change advice, edit listed for wanted alternatives.",remove
+ Warned: unalert to amount of listed eggs consumed rate at limit,remove
+ Reduced snack list number planned less be better for spending all.,remove
+ Advis reduce cut ban,remove
+ Item that changed on p's list need the removal/sub,remove
+ Rm planned cookie desser from replacement we're try a recipe,remove
+ Too heav yog in list intended reduced better do without rmsd,remove
+" Took sic drinkin-inventory before gon, updated the buying-aim.",remove
+" Excess baking powder not needed, remove from list.",remove
+" Too many apples, reduce quantity.",remove
+" Unneeded extra salt, strike from list.",remove
+" Eliminate extra eggplants, enough already.",remove
+" Spinach in overabundance, lessen amount.",remove
+" No need for additional avocados, omit.",remove
+" Unwarranted extra onions, scratch from list.",remove
+" Superfluous bell peppers, cut down.",remove
+" Too much garlic, minimize.",remove
+"  Unnecessary celery, exclude.",remove
+" Extraneous canned goods, remove.",remove
+" Extras meat, decrease.",remove
+" Extravagant cheese purchase, lessen.",remove
+" Preposterous pasta portions, adjust.",remove
+" Ludicrous loaf of bread, minimize.",remove
+" Needless number of noodles, decrease.",remove
+" Redundant rice, reduce.",remove
+" Too many tortillas, eliminate.",remove
+" Extraneous butter, remove.",remove
+" Extra oil, lessen.",remove
+" Superfluous sugar, decrease.",remove
+" Extras flour, omit.",remove
+" Surplus tea bags, minimize.",remove
+" Unwarranted coffee, exclude.",remove
+" Extra chocolate, remove.",remove
+" Frivolous fruit, scratch from list.",remove
+" Extra vegetables, cut down.",remove
+" NUts in excess, adjust.",remove
+" Overabundant dairy, decrease.",remove
+" Extravagant snacks, omit.",remove
+ Overripe bananas shouldn't be on the list.,remove
+" Extra cheese is not needed, remove it.",remove
+" No need for two packs of pasta, take one off.",remove
+" Strikethrough canned soups, they won't be bought.",remove
+ Remove spoiled berries from the list.,remove
+ Delete the out-of-stock snack.,remove
+ Don't forget to cross out the discontinued cereal.,remove
+" Scratch goat milk, we're out of luck.",remove
+ Uncheck the damaged bread at the store.,remove
+" X out the recalled chicken, safety first.",remove
+" Excess ingredients can go, reduce to the necessary.",remove
+ Strikethrough that pricey dish soap.,remove
+ Ignore sales tax on off-list items.,remove
+ Delete pricey fruit juice when comparing costs.,remove
+ Multis of one item make the list cluttered. Streamline.,remove
+ Scratch unimportant cooking supplies.,remove
+ Ignoring doubled sweeteners pares down stock.,remove
+ Consider scratching those salty snacks or getting just one.,remove
+ Not buying excessive coffee filters reduces waste.,remove
+ X out the decorative snack platters.,remove
+ Lose some heavy starches all at once.,remove
+" Mass produced frozen pizza can also go, we make our own.",remove
+ Comparisons lead us to drop soft drinks.,remove
+ Substituting brand names whittles your budget.,remove
+" Get energy from nature, neglect expensive sports drinks.",remove
+ No exotic veggies today.,remove
+ Quiet pastel candies crowd the baskety snacks.,remove
+ The list is clogged with junk cereals.,remove
+ Whirrs! Too many drink refills at once!,remove
+" I guess we do great, can tell we feel much lighter.",remove
+   ,remove
+" You might find some suggestions more or less context dependency, and would fit in different scenarios depending on the intent of the actors, making this lists both a product of specific reality and certain desired change. Cheers! Wishes for healthy and reasonable sustenance :').",remove
+" Lettuce seems wilted, remove it.",remove
+" Expired milk, toss it.",remove
+" Stale bread, scratch it.",remove
+" Moldy cheese, get rid of it.",remove
+" Overripe bananas, exclude them.",remove
+" Soggy vegetables, eliminate them.",remove
+" Bad meat, remove from list.",remove
+" Crushed crackers, don't buy.",remove
+" Leaking yogurt, skip it.",remove
+" Dented can, don't include.",remove
+" Discolored fruit, avoid purchasing.",remove
+" Freezer- burned items, leave out.",remove
+" Rancid nuts, eliminate.",remove
+" Past due date, take off.",remove
+" Separated eggs, discard.",remove
+" Gas-bloated can, omit.",remove
+" Disintegrating cookies, ignore.",remove
+" Weevils in flour, forgo it.",remove
+" Oxidized potatoes, don't purchase.",remove
+" Cloudy juice, pass over it.",remove
+" Wet cereal, remove.",remove
+" Broken pasta, overlook.",remove
+" Mushy berries, delete.",remove
+" Chipped cup, exclude.",remove
+" Torn package, neglect.",remove
+" Dried-out markers, miss it.",remove
+" Dusty jar, bypass.",remove
+" Bad smell from container, forget it.",remove
+" Dodgy jar lid, abandon it.",remove
+" Bent utensils, forgo buying.",remove
+ Remove the wilted lettuce.,remove
+ We don't need three bottles of ketchup.,remove
+ Expired yogurt has to go.,remove
+" Too ripe bananas, scrap them.",remove
+ Do we really need six loaves of bread?,remove
+" Extra can of sardines, take it off.",remove
+ Overripe avocados need to be discarded.,remove
+ Three cartons of orange juice is too much.,remove
+ Don't forget to delete moldy cheese.,remove
+" Two bags of chips, one's enough.",remove
+ Stale pretzels have to be removed.,remove
+ No need for four containers of sour cream.,remove
+" The milk expired two days ago, toss it.",remove
+ Delete second bottle of Italian dressing.,remove
+" Broken crackers, replace or remove.",remove
+" Soggy carrots, throw them out.",remove
+ Browned apples can be excluded.,remove
+"  Extra-large jar of mayonnaise, get a smaller one.",remove
+" Leaking mustard, replace or remove.",remove
+ No need for another pack of cookies.,remove
+" Flat soda, it won't taste good.",remove
+ Rancid nuts- forget about them.,remove
+ Cut off spoiled parts of watermelon.,remove
+" Crumpled snack bags, replace them.",remove
+" Extra block of cheddar, maybe later.",remove
+" Herbs lookingbad, buy fresh ones.",remove
+" Meat past its date, discard.",remove
+" Pre-cut veggies starting to brown, got to lose them.",remove
+ Box of rice with weevils better tossed.,remove
+ Get rid of a dozen stale doughnuts.,remove
+" The list includes stale bread, remove it.",remove
+" Cross off the wilted lettuce, please.",remove
+ Expired milk shouldn't be on the list.,remove
+ Too ripe bananas need to go.,remove
+" The list has crushed crackers, discard them.",remove
+ Remove the almost empty bottle of vegetable oil.,remove
+ the moldy cheese must be stricken off.,remove
+" There's an almost empty jar of mayonnaise, exclude it.",remove
+ Overripe avocados should not be on the list.,remove
+ The list contains canned goods that expired.,remove
+ Discard torn opened bags of chips.,remove
+ Soft lemons should not be on the list.,remove
+" The list contains a half-eaten package of cookies, exclude it.",remove
+" The carton of spoiled eggs is on the list, delete it.",remove
+ Bruised apples should not be included.,remove
+ Removed rancid nuts from the list.,remove
+ Discard the drippy honey bottle.,remove
+" There's stale cereal on the list, get rid of it.",remove
+ Remove broken cookies from the list.,remove
+" There are browned mushrooms in the list, scratch them.",remove
+ Burnt pasta deserves a strike through on the list.,remove
+ Tube toothpaste near empty shouldn't be considered.,remove
+" Graying bacon belongs in the trash, not the cart.",remove
+ Prunes that re whitening gets discarded.,remove
+" Cooked rice is not for today's fare, delete.",remove
+ Dry-spiced meat should be crossed off the list.,remove
+ Clumped hot dogs need eliminated.,remove
+ Cilantro gone nasty is crossed through.,remove
+ Drained liquid from bean cans out now.,remove
+ Old orange juice gallon not placed anew in list redo.),remove
+" Excess quinoa, remove some.",remove
+" Three yogurts, that's too many.",remove
+ Do we need this much butter?,remove
+" Too many apples, cut down.",remove
+ We only need one loaf of bread.,remove
+ Don't forget to scratch off extra cheese.,remove
+" Extra eggs, you can take some out.",remove
+" Lettuce times two, keep one.",remove
+" Six onions, five will suffice.",remove
+ Delete two from milk list.,remove
+" Peanut butter surplus, remove one.",remove
+" OJ for days, limit to two.",remove
+ Get rid of the excess jam.,remove
+" Fourteen rolls, really?",remove
+" Broccoli x3, we'll stick to two.",remove
+" A gallon of ice cream, that's steep.",remove
+ Reduce the rice count.,remove
+ Can we nix a can of beans?,remove
+ Delete the duplicate cold cereal.,remove
+ Subtract one from the tortilla tally.,remove
+ Don't forget to erase the oversupply of raisins.,remove
+" AVocados galore, tone it down.",remove
+" Chk'n then chk'n again, 1's enough.",remove
+" Carrots overload, please decline.",remove
+ Turn down the tomato volume.,remove
+ Decrease the drink offerings.,remove
+ Scale back the selected seafood.,remove
+ B ring down the bagged salad consumption.,remove
+ Taper on the taters.,remove
+ Cut back the chosen cuts of meat.,remove
+ Extra milk cans seem unnecessary.,remove
+ Can we remove the extra bread loaf?,remove
+ Do we need three packages of pasta?,remove
+ Is the bonus bag of rice needed?,remove
+ How many cereal boxes do we require?,remove
+ Looks like there are extra cookies.,remove
+ Eight yogurts seem too many.,remove
+ Do we have enough juice already?,remove
+ Let's reconsider two bags of chips.,remove
+ Is there enough space for more canned goods?,remove
+" Plenty of crackers, remove some?",remove
+ Evaluate the extra box of tea.,remove
+ Have we bought too many fruits?,remove
+ Four vegetable packs may be excessive.,remove
+" Salad comes in big bags, consider reducing.",remove
+ Two cheese blocks can be reduced?,remove
+ Three cartons of egg can be slimmed down.,remove
+" Chicken breasts, perhaps lessen the amount?",remove
+ Sausages! Not sure if all those packages are required?,remove
+ How about having just two types of fish?,remove
+ Noted the large tub of butter.,remove
+ Reduce count of onions maybe?,remove
+" Excess garlic, take out some.",remove
+ A whole bag of potatoes?,remove
+ Purchased pasta sauce by mistake.,remove
+" Bottled water's kinda heavy, no need for 2.",remove
+" Chocolatey candies in bulk, not crucial.",remove
+ Revise the stack of paper towels.,remove
+ Bubble wrap - only if packed properly.,remove
+ Skip new baking stuff for this time?,remove
+ Extra orange juice - remove.,remove
+ Repeat bread type - delete.,remove
+ Unnecessary sweets left - exclude.,remove
+ Overlapping pasta brand - eliminate.,remove
+ Excess ripened bananas - erase.,remove
+ Two bottles of ketchup - reduce to one.,remove
+ Spare canned soups - cut.,remove
+ Redundant dressing bottle - discard.,remove
+ Left out-of-date yogurts - omit.,remove
+ Separate Cheese packets – merge or remove.,remove
+ Forget milk quantity - correct.,remove
+ Surplus noodle pack - streamline.,remove
+ Many baking items - narrow down.,remove
+ Multiple options of butter - optimize.,remove
+ Too many fresh vegetables - trim.,remove
+ Prevailing cracker stock - condense.,remove
+ Overstocked meats - lessen.,remove
+ More teas than needed - bring down.,remove
+ Numerous bottled beverages - minimize.,remove
+ Having plenty coffee - limit.',remove
+ Several fruit-based toppings - select one.,remove
+ Additional granolas on list - exclude.,remove
+ Multi Jams consideration - reduce choices.,remove
+ Restrict vegan/gluten-free varieties.,remove
+ Too many snack food units - decrease.,remove
+ Omit frozen treats at end.,remove
+ Withdrew sauces & marinades.,remove
+ Enough kitchen & paper roll sets.,remove
+ Deleted spices & oils.,remove
+ Strike overbranded multivitamins.,remove
