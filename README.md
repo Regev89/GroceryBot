@@ -55,7 +55,7 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [regev89@gmail.com](mailto:regev89@gmail.com)
+[regev89@gmail.com](mailto:regev89@gmail.com)
 
 ## Acknowledgments
 - mixedbread-ai/mxbai-embed-large-v1
